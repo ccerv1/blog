@@ -1,5 +1,5 @@
 # Theme
-remote_theme: pages-themes/minima@v0.2.0
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
@@ -9,7 +9,7 @@ description: Carl Cervone's personal page
 avatar: "/assets/img/avatar-icon.png"
 
 # Nav bar
-nav_links:
+header-pages:
   - title: Home
     url: /
   - title: About
