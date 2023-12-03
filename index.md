@@ -1,6 +1,10 @@
 # Carl Cervone
 
-[About](carl/index.html) | [Twitter](https://twitter.com/carl_cervone) | [Github](https://github.com/ccerv1) | [Mirror](https://mirror.xyz/cerv1.eth) | [LinkedIn](https://www.linkedin.com/in/carlcervone/)
+[About](carl/index.)
+[Twitter](https://twitter.com/carl_cervone)
+[Github](https://github.com/ccerv1)
+[Mirror](https://mirror.xyz/cerv1.eth)
+[LinkedIn](https://www.linkedin.com/in/carlcervone/)
 
 ## Essays:
 - A Call for More Programmable Retro-Funding for Digital Public Goods
