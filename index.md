@@ -1,5 +1,6 @@
 # Carl Cervone
 
+<img src="../assets/img/avatar.png" width="50" height="50" align="right"/>
 [Bio](carl/) 
 &nbsp; &nbsp; &nbsp; [Twitter](https://twitter.com/carl_cervone)
 &nbsp; &nbsp; &nbsp; [Github](https://github.com/ccerv1)

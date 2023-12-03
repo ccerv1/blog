@@ -1,5 +1,3 @@
-<img src="../assets/img/avatar.png" width="50" height="50" align="right"/>
-
 Hi, I'm Carl. I'm interested in using data to improve governance and public goods funding.
 
 Right now, I'm working on [Kariba](https://www.karibalabs.co/). Our first product is an analytics platform called [Open Source Observer](https://www.opensource.observer) that helps foundations and ecosystem funds allocate funding to open source projects. 
