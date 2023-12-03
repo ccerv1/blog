@@ -1,31 +1,8 @@
 # Theme
-remote_theme: jekyll/minima
+remote_theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
 
 # Basics
 title: Carl Cervone
 description: Carl Cervone's personal page
-avatar: "/assets/img/avatar-icon.png"
-
-# Nav bar
-header-pages:
-  - title: Home
-    url: /
-  - title: About
-    url: /carl
-  - title: Twitter
-    url: https://twitter.com/carl_cervone
-  - title: GitHub
-    url: https://github.com/ccerv1
-  - title: Mirror
-    url: https://mirror.xyz/cerv1.eth
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/carlcervone
-
-# Footer
-footer_links:
-  - title: GitHub
-    url: https://github.com/ccerv1
-  - title: Twitter
-    url: https://twitter.com/carl_cervone
