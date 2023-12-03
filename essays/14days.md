@@ -1,11 +1,9 @@
-{
-  "title": "A 14 Day Immersion to Web3",
-  "date": "06/13/2022"
-}
----
+# A 14 Day Immersion to Web3"
 
+June 13, 2022
+---
 > #### *From a series of posts on [Mirror](https://mirror.xyz/cerv1.eth/CLrKF6slzDl9xp07f0LhYSMDSqVz51D1Rpg2Rqe-lXI) .*
->
+
 This page contains a two-week immersion program for people who are entirely new to web3. It consists of 14 discrete activities. Each activity should take less than an hour to complete. I recommend allocating about ~$300~ ~$200~ $100 (0.1 ETH) for learning purposes, though you certainly won’t need to spend all of it.
 
 I recommend following the course in sequence, since concepts build progressively on top of each other. I’ve tried my best to provide detailed explanations and screenshots for each lesson, but if you get lost and can’t find an answer to your question through internet searches, feel free to send me a [direct message](https://twitter.com/carl_cervone) and I’ll do my best to respond.

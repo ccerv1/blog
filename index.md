@@ -7,33 +7,35 @@
 &nbsp; &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/carlcervone/)
 
 ## Essays:
-- A Call for More Programmable Retro-Funding for Digital Public Goods
-- The Career of Albert Tucker: An Oral History Project
-- Imagining a Brighter Future for Democracy: Optimism, Innovation, and Intelligence
-- Funding for Impact, Not Intention: A New Era of Creativity and Risk-Taking for Public Goods
-- Impact evaluations for 158 Gitcoin Grants - and the 30 I chose to fund
-- A Greenpill Manifesto
-- Reflections From My First Days Working On Hypercerts
-- Towards a Pluralism Passport Built from DeSoc Legos
-- Reflections on Funding the Commons
-- [A 14 Day Immersion to Web3](essays/14days)
-- TLDR - Reinventing Organizations (“Teal”)
-- Here’s a Free, No-Code Way to Email POAP Links to a Big Group
-- How to Stop Climate Change (Without Getting Lucky)
-- Top 10 Types of Carbon Credit Offset Projects Globally
-- A 6-Step Primer For How Farmers Can Earn Carbon Credits
-- Web3 Will Enable The Gift Economy and The Market Economy to Play Together in Completely New Ways
-- Skeptical of Crypto? Here Are 4 Projects to Broaden Your Perspective
-- Topographic Colormaps
-- Joyplotting Coffee and Altitude
-- A Snapshot of Coffee Farming Conditions in Yemen
-- [On The Road to Agaro](essays/agaro)
-- Trip Report on China's Coffee Sector
-- Applying The Harper’s Index to The NYC Subway
-- NYC Pizza Bracket: A Quest to Find The Best Pizzeria in New York City
-- The Lemon Award: a Case Study on Financial Transparency & Good Governance in Cooperatives
-- Busa Bechane and The Arrest of Abaznab
-- Mobile Deposit Vouchers (a Pre-MPesa Concept Note for Mobile Banking)
-- Mailing Provisions to Tanzania
-- My Grant Proposal For a DIY Peace Corps Experience
-- A Cleaner World, Door by Door
+- [A call for more programmable retro-funding for digital public goods](essays/programmable_retrofunding)
+- [The career of Albert Tucker: an oral history project](essays/albert_tucker)
+- [Imagining a brighter future for democracy: optimism, innovation, and intelligence](essays/optimistic_democracy)
+- [Funding for impact, not intention: a new era of creativity and risk-taking for public goods](essays/funding_for_impact)
+- [Impact evaluations for 158 Gitcoin Grants - and the 30 I chose to fund](essays/gtc_alpha_impact)
+- [A greenpill manifesto](essays/greenpill)
+- [Reflections from my first days working on hypercerts](essays/hypercerts_reflections)
+- [Towards a pluralism passport built from desoc legos](essays/pluralism_passport)
+- [Reflections on Funding the Commons (NYC June 2022)](essays/funding_the_commons)
+- [A 14 day immersion to web3](essays/14days)
+- [TLDR - Reinventing Organizations (“Teal”)](essays/teal)
+- [Here’s a free, no-code way to email POAP links to a big group](essays/nocode_poap)
+- [How to stop climate change (without getting lucky)](essays/climate_change)
+- [Top 10 types of carbon credit offset projects globally](essays/carbon_credits_db)
+- [A 6 step primer for how farmers can earn carbon credits](essays/carbon_credits_6steps)
+- [Web3 will enable the gift economy and the market economy to play together in completely new ways](essays/web3_gift_economy)
+- [Skeptical of crypto? here are 4 projects to broaden your perspective](essays/crypto_skeptic)
+- [Topographic colormaps](essays/topoloco)
+- [Joyplotting coffee and altitude](essays/joyplotting)
+- [A snapshot of coffee farming conditions in Yemen](essays/yemen_coffee)
+- [On the road to Agaro](essays/agaro)
+- The sustainability paradox
+- [Trip report on China's coffee sector](essays/china_trip_report)
+- Relections on a trip to Yunnan and Papua New Guinea
+- [Applying the Harper’s Index to the NYC subway](essays/harpers_index)
+- [NYC Pizza Bracket: a quest to find the best pizzeria in New York City](essays/pizza_bracket)
+- [The Lemon Award: a case study on financial transparency & good governance in cooperatives](essays/lemon_award)
+- [Busa Bechane and the arrest of Abaznab](essays/busa)
+- [Mobile deposit vouchers (a pre-MPesa concept note for mobile banking)](essays/mobile_deposit_vouchers)
+- [Mailing provisions to Tanzania](essays/mailing_provisions)
+- [My grant proposal for a DIY Peace Corps experience](essays/diy_peacecorps)
+- [A cleaner world, door by door](essays/cleaner_world)
