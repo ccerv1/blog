@@ -1,7 +1,7 @@
-# On The Road to Agaro"
+### On The Road to Agaro
 
-May 19, 2019
----
+*May 19, 2019*
+
 I’ve been traveling the road from Jimma to Agaro for over 10 years. At one point in my life, I would drive it several times a week. These days, it may only be several times a year. It’s a road I know by heart and, in a country not known for having roads that people love, it’s a road I love.
 
 Yesterday, I left Jimma in a shoddy rented pickup. My driver had Casio-rich Amharic pop music turned up high and a friend passing him wads of *chat* to stow in his cheek. The quality of the road has been getting worse each year. We estimated the 45 kilometer ride would take an hour and a half.

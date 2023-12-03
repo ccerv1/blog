@@ -1,8 +1,6 @@
-{
-  "title": "The Career of Albert Tucker: An Oral History Project",
-  "date": "05/12/2023"
-}
----
+### The Career of Albert Tucker: An Oral History Project
+
+*May 12, 2023*
 
 My grandfather, Albert William Tucker (1905 – 1995), was a distinguished mathematician and educator whose work significantly shaped postwar economics and business. He joined the faculty of Princeton University's mathematics department during a transformative period in the 1930s, marked by the influence of luminaries such as John von Neumann and Albert Einstein, and presided over the department during the 1950s and 1960s
 
@@ -15,7 +13,7 @@ I created a digital version of a series of audio transcripts with the assistance
 
 The original recordings of these conversations are housed at Princeton's Seeley G. Mudd Manuscript Library, and scanned transcripts of all of the Oral History Project conservations are accessible [here](https://www.math.princeton.edu/about/oral-history) on the Princeton Department of Mathematics website.
 
-Here is my digital transcript, available in PDF form [here](../public/images/Albert_Tucker_Oral_History.pdf), and in markdown below.
+Here is my digital transcript, available in PDF form [here](../assets/pdf/Albert_Tucker_Oral_History.pdf), and in markdown below.
 
 ***
 
