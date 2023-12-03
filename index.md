@@ -5,7 +5,6 @@
 &nbsp; &nbsp; &nbsp; [Twitter](https://twitter.com/carl_cervone)
 &nbsp; &nbsp; &nbsp; [Github](https://github.com/ccerv1)
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
-&nbsp; &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/carlcervone/)
 
 ## Essays:
 - [Cradle-to-unicorn public goods funding](https://gov.gitcoin.co/t/cradle-to-unicorn-public-goods-funding/17189)
