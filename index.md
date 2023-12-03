@@ -7,7 +7,7 @@
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
-- [Cradle-to-unicorn public goods funding](https://gov.gitcoin.co/t/cradle-to-unicorn-public-goods-funding/17189)
+- [Cradle-to-unicorn public goods funding](essays/cradle_to_unicorn.md)
 - [Analysis on the 300+ OSS projects applying for RetroPGF 3](https://mirror.xyz/cerv1.eth/aKLPb2c9n57zNUyOkv8IirYawVba74a1gjjTAe3TPX0)
 - [The most interesting economic experiment you’ve never heard of](https://mirror.xyz/cerv1.eth/SupW7pL4YBK56YY3HOWhz_9aOeMiKUDsPG4xVZSBE6k)
 - [The past, present and future of public goods funding](https://mirror.xyz/cerv1.eth/VfD17ebuKnUr3jXI2Bbw0qvH1GbsCO6NqjqQ0ecJW_c)
@@ -33,8 +33,8 @@
 - [Topographic colormaps](essays/topoloco)
 - [Joyplotting coffee and altitude](essays/joyplotting)
 - [A snapshot of coffee farming conditions in Yemen](essays/yemen_coffee)
+- [It’s 2020: The role data can play in achieving the next decade’s sustainability targets](essays/its_2020)
 - [On the road to Agaro](essays/agaro)
-- The sustainability paradox
 - [Trip report on China's coffee sector](essays/china_trip_report)
 - Relections on a trip to Yunnan and Papua New Guinea
 - [Applying the Harper’s Index to the NYC subway](essays/harpers_index)
