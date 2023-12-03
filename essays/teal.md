@@ -12,7 +12,7 @@ Laloux's core thesis is that every time humanity has shifted to a new stage of c
 
 The book opens with lengthy and persuasive history of human organization. Each level of consciousness has a color associated with it. The **Red** stage emerged 10,000 years ago and brought organizational innovations like having an unimpeachable authority (ie, a chief) and a division of labor among citizens. Next came **Amber**, circa 1000 years ago, which introduced hierarchy, stable roles, and formal processes. These organizational innovations were essential to the spread of religion (eg, the church) and government (eg, monarchies). The **Orange** organization emerged around 100 years ago and is best exemplified by a traditional bank or multinational. Such organizations pioneered concepts like shareholder value, meritocracy, business forecasting, and management through KPIs. The last type of organization to be well represented among popular levels of consciousness is the **Green** organization. Most web2 companies operate at this level of consciousness. Such organizations tend to have flatter management structures and try to do more than just give lip service to social and environmental issues.
 
-![image|573x385](https://aws1.discourse-cdn.com/standard11/uploads/gitcoin1/original/2X/b/b2b5bdac4e490b12e8786ea0b6a5272929f61b85.png)
+![image|573x385](../assets/img/teal_humandev.png)
 
 While each type of organization had its heyday, each organization is still present in modern life. Most government organizations like public schools, police departments, and courts still operate with amber principles. The [Fortune 500 list circa the Year 2000](https://fortune.com/fortune500/2000/) is a good snapshot of orange organizations (General Motors, Wal-Mart, Exxon Mobil, Citigroup, AT&T) and the current [World's Most Admired companies list](https://fortune.com/worlds-most-admired-companies/) includes a good smattering of green organizations (Apple, Alphabet, Microsoft, Starbucks, Netflix). (If these links are paywalled for you, then you can thank orange consciousness for that.)
 
@@ -22,11 +22,11 @@ After the history section, the rest of the book focuses on a new type of organiz
 
 There is a lengthy practical section, which explains teal principles and how to implement them. There are no bosses, no job descriptions, no formal strategy process, hardly any budgets. There are explicit ground rules, reflective spaces, open information flow, energy. 
 
-![image|690x275](https://aws1.discourse-cdn.com/standard11/uploads/gitcoin1/optimized/2X/0/02eed967cd7b2d42d12d3376588de5d6f6def8d9_2_1380x550.png)
+![image|690x275](../assets/img/teal_slide.png)
 
 Here is a more elaborate derivation of teal principles and their evolution from early forms of organizational consciousness.
 
-![image|571x500](https://aws1.discourse-cdn.com/standard11/uploads/gitcoin1/optimized/2X/a/a58497c4b22f8fbf941a6b6bfd3bd41e45ba4629_2_1142x1000.jpeg)
+![image|571x500](../assets/img/teal_org_map.jpeg)
 
 The book also gives several examples of modern organizations that have adopted one or more aspects of teal. The food processing company [Morningstar](https://www.morningstarco.com/) is one such example. I found this vignette about how they handle compensation to be compelling:
 
