@@ -1,8 +1,6 @@
-{
-  "title": "Reflections From My First Days Working On Hypercerts",
-  "date": "10/28/2022"
-}
----
+### Reflections From My First Days Working On Hypercerts
+
+*October 28, 2022*
 
 > This is a note I wrote on October 28, 2022 shortly after joining Protocol Labs to work on hypercerts. I’m sharing it as a blog post, almost exactly one year later, as an artifact that may be useful to other teams at the early stages of building a new protocol. I have now moved on from working on hypercerts full-time, but have great hopes for the protocol and the community that has sprouted up around it. I am also curious to see how well this doc ages. Note: the doc has been lightly edited from the original to avoid mentioning specific names.
 

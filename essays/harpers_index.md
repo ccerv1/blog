@@ -1,8 +1,6 @@
-{
-  "title": "Applying The Harper’s Index to The NYC Subway",
-  "date": "06/05/2016"
-}
----
+### Applying The Harper’s Index to The NYC Subway
+
+*June 5, 2016*
 
 Ridership is up, service quality is down. The MTA, which runs the NYC subway system, is quick to offer statistics on the former, but takes a more taciturn style when asked to provide transparency on the latter. While every regular commuter has anecdotes about egregious delays and dangerously overcrowded platforms, few know the hard facts about the degree to which reliability has deteriorated and what’s being done about it.
 

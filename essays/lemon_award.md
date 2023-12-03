@@ -1,10 +1,8 @@
-{
-  "title": "The Lemon Award: a Case Study on Financial Transparency & Good Governance in Cooperatives",
-  "date": "03/26/2012"
-}
----
+### The Lemon Award: a Case Study on Financial Transparency & Good Governance in Cooperatives
 
-*This is the original case study I prepared for TechnoServe's [Lessons Learned](https://www.technoserve.org/wp-content/uploads/2013/04/coffee-initiative-lessons-learned.pdf) from the Coffee Initiative, released in 2013*
+*March 26, 2012*
+
+> This is the original case study I prepared for TechnoServe's [Lessons Learned](https://www.technoserve.org/wp-content/uploads/2013/04/coffee-initiative-lessons-learned.pdf) from the Coffee Initiative, released in 2013
 
 ## Doyo’s Turnaround
 

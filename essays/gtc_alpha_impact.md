@@ -1,12 +1,10 @@
-{
-  "title": "Impact evaluations for 158 Gitcoin Grants - and the 30 I chose to fund",
-  "date": "01/21/2023"
-}
----
+### Impact evaluations for 158 Gitcoin Grants - and the 30 I chose to fund
 
-> #### *This article was originally posted on [Mirror](https://mirror.xyz/cerv1.eth/yBtw568KrA9SVvITGq2E6eQb14UdZYeb1lhimFW8qV4) .*
->
-# Intro
+*January 21, 2023*
+
+> This article was originally posted on [Mirror](https://mirror.xyz/cerv1.eth/yBtw568KrA9SVvITGq2E6eQb14UdZYeb1lhimFW8qV4)
+
+### Intro
 
 This is my first attempt at creating a series of modular, oracular impact assessments for [Gitcoin Grants](https://grants.gitcoin.co/).
 
@@ -26,7 +24,7 @@ You can view my processed dataset [here on IPFS](https://bafkreiheswljtl7nwjzpwa
 
 I hope this inspires you to create your own, better assessments!
 
-# Methodology
+### Methodology
 
 The 158 projects currently on Gitcoin Grants have been deployed across three rounds:
 
@@ -50,9 +48,9 @@ Once my datasets were ready, I normalized the indicators and created ranking for
 
 Finally, I selected the top 20% of projects from each round (for a total of 30 projects).
 
-# Results
+### Results
 
-## Climate (10 projects):
+#### Climate (10 projects):
 
 - Natives in Tech
 
@@ -74,7 +72,7 @@ Finally, I selected the top 20% of projects from each round (for a total of 30 p
 
 - BETTER
 
-## ETH Infrastructure (4 projects)
+#### ETH Infrastructure (4 projects)
 
 - ethers.js
 
@@ -84,7 +82,7 @@ Finally, I selected the top 20% of projects from each round (for a total of 30 p
 
 - TrueBlocks and the Unchained Index
 
-## Open Source Software (16 projects)
+#### Open Source Software (16 projects)
 
 - Lenster
 

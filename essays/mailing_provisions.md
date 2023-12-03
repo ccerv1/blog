@@ -1,20 +1,10 @@
-{
-  "title": "Mailing Provisions to Tanzania",
-  "date": "04/08/2004"
-}
----
+### Mailing Provisions to Tanzania
 
-*My commentary on March 17, 2019:*
+*April 8, 2004*
 
-> I have been going through some old emails lately. Here’s a note that I sent my mom in 2004 asking her to mail some essential but locally unavailable provisions - cash, batteries, a book - to my PO Box in Tanzania.
-> 
+> My commentary on March 17, 2019: I have been going through some old emails lately. Here’s a note that I sent my mom in 2004 asking her to mail some essential but locally unavailable provisions - cash, batteries, a book - to my PO Box in Tanzania. Years later, much of this list seems outrageous: soap, batteries (likely for my digital camera and MP3 player), a United Nations report (now available online as a pdf), and some US dollars in cash. The dollars, sadly, still take considerable effort (or cost) to move between the US and East Africa. It remains common for people to ask me to carry cash on my trips over.
 
-> Years later, much of this list seems outrageous: soap, batteries (likely for my digital camera and MP3 player), a United Nations report (now available online as a pdf), and some US dollars in cash. The dollars, sadly, still take considerable effort (or cost) to move between the US and East Africa. It remains common for people to ask me to carry cash on my trips over.
-> 
-
----
-
-*The email to my mom on August 8, 2004*
+### The email to my mom on August 8, 2004
 
 Hi… I’m back from the village and exploring other areas in the highlands.  It was really great to get back there for a day and see everyone.  The rains last spring were very poor, so a two-year drought continues… it’s really difficult to make forward progress when the climate is working against you.
 

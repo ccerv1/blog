@@ -1,10 +1,10 @@
-Reflections on Funding the Commons
+### Reflections on Funding the Commons
 
-June 26, 2022
+*June 26, 2022*
 
 > Some quick thoughts after attending the [Funding the Commons](../assets/pdf/fundingthecommons2022.pdf) event in New York this past week.
 
-## 1. Funding models & incentives need to be reinvented
+### 1. Funding models & incentives need to be reinvented
 
 The event gave out t-shirts with the following quip on them:
 
@@ -43,7 +43,7 @@ All this inspired a quick rework of the fourfold model to include the anti-rival
 Divya Siddharth gave an extremely compelling [talk](https://www.youtube.com/watch?v=jT3riInwd5c) challenging us to view each of these elements not as boxes but as a spectrum. She remarked that some exclusion is often necessary but we have historically erred on the side of excluding too much, reducing the potential positive returns of a network for its users.
 
 
-## 2. Impact certificates are a necessary primitive
+### 2. Impact certificates are a necessary primitive
 
 In Juan Benet's [keynote](https://youtu.be/kGs3IdHj5_4?t=3610), he sets a stretch goal for the sector of launching 3+ impact markets, with >$50M in value, over the year ahead.
 
@@ -62,7 +62,7 @@ Kevin Owocki has also called out the importance of [impact certificates](https:/
 
 I have some ideas on this, which I'll put into a separate post.
 
-## 3. I'm not ready to give up on Effective Altruism... yet
+### 3. I'm not ready to give up on Effective Altruism... yet
 
 I love the pluralistic, bottom-up ethos of the web3 community and most present at Funding the Commons.
 

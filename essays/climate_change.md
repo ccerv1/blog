@@ -1,4 +1,4 @@
-How to Stop Climate Change (Without Getting Lucky
+### How to Stop Climate Change (Without Getting Lucky)
 
 *March 30, 2022*
 

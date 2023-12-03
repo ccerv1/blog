@@ -1,12 +1,10 @@
-{
-  "title": "Joyplotting Coffee and Altitude",
-  "date": "08/05/2021"
-}
----
+### Joyplotting Coffee and Altitude
 
-*A visualization of the altitude of 121,156 coffee farms visited by Enveritas over the last 3 years, representing 21 countries.*
+*August 5, 2021*
 
-![Coffee and Altitude by Country](/public/images/joyplot.png)
+> A visualization of the altitude of 121,156 coffee farms visited by Enveritas over the last 3 years, representing 21 countries.
+
+![Coffee and Altitude by Country](../assets/img/joyplot.png)
 
 There are three things that were fun about making this dataviz.
 
@@ -22,6 +20,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Initialize a FacetGrid object and color palette
+
 g = sns.FacetGrid(
 		df,
 		row="Country", 

@@ -1,8 +1,6 @@
-{
-  "title": "Here’s a Free, No-Code Way to Email POAP Links to a Big Group",
-  "date": "04/20/2022"
-}
----
+### Here’s a Free, No-Code Way to Email POAP Links to a Big Group
+
+*April 20, 2022*
 
 POAPs are free, fun, digital memories.
 
