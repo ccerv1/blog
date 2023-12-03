@@ -4,7 +4,7 @@
 
 > I wrote a concept note for a mobile banking solution in 2005. It has many similarities to MPesa, which was launched in 2007. Although my idea never spread beyond a few emails (and I left the microfinance space in 2006), I sometimes wonder if there's a parallel universe where I'd gone after this idea full-time.
 
-**Here's the original whitepaper:**
+Here's the original whitepaper:
 
 ---
 
