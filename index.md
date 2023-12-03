@@ -36,7 +36,7 @@
 - [It’s 2020: The role data can play in achieving the next decade’s sustainability targets](essays/its_2020)
 - [On the road to Agaro](essays/agaro)
 - [Trip report on China's coffee sector](essays/china_trip_report)
-- Relections on a trip to Yunnan and Papua New Guinea
+- [Relections on a trip to Yunnan and Papua New Guinea](essays/china_and_png)
 - [Applying the Harper’s Index to the NYC subway](essays/harpers_index)
 - [NYC Pizza Bracket: a quest to find the best pizzeria in New York City](essays/pizza_bracket)
 - [The Lemon Award: a case study on financial transparency & good governance in cooperatives](essays/lemon_award)
