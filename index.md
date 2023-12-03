@@ -1,10 +1,10 @@
 # Carl Cervone
 
-[About](carl/index.)
-[Twitter](https://twitter.com/carl_cervone)
-[Github](https://github.com/ccerv1)
-[Mirror](https://mirror.xyz/cerv1.eth)
-[LinkedIn](https://www.linkedin.com/in/carlcervone/)
+[Bio](carl/) 
+&nbsp; &nbsp; &nbsp; [Twitter](https://twitter.com/carl_cervone)
+&nbsp; &nbsp; &nbsp; [Github](https://github.com/ccerv1)
+&nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
+&nbsp; &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/carlcervone/)
 
 ## Essays:
 - A Call for More Programmable Retro-Funding for Digital Public Goods
@@ -16,7 +16,7 @@
 - Reflections From My First Days Working On Hypercerts
 - Towards a Pluralism Passport Built from DeSoc Legos
 - Reflections on Funding the Commons
-- A 14 Day Immersion to Web3
+- [A 14 Day Immersion to Web3](essays/14days)
 - TLDR - Reinventing Organizations (“Teal”)
 - Here’s a Free, No-Code Way to Email POAP Links to a Big Group
 - How to Stop Climate Change (Without Getting Lucky)
@@ -27,7 +27,7 @@
 - Topographic Colormaps
 - Joyplotting Coffee and Altitude
 - A Snapshot of Coffee Farming Conditions in Yemen
-- On The Road to Agaro
+- [On The Road to Agaro](essays/agaro)
 - Trip Report on China's Coffee Sector
 - Applying The Harper’s Index to The NYC Subway
 - NYC Pizza Bracket: A Quest to Find The Best Pizzeria in New York City
