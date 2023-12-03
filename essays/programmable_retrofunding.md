@@ -15,7 +15,7 @@ Part of the problem is that we haven't found the right, digitally-native mechani
 
 Consider Wikipedia, a household name in the realm of digital public goods. You've likely encountered the seemingly ever-present appeal banners asking for donations:
 
-![](../public/images/wikipedia.png)
+![](../assets/img/wikipedia.png)
 
 If a digital public good as prolific as Wikipedia remains strapped for cash, what can we assume about all the other, less visible open source initiatives?
 ***
@@ -53,7 +53,7 @@ Retro-funding is a viable alternative, enabling us to support projects that have
 
 Retro-funding operates on a simple principle: reward projects for the value they have already provided.
 
-![](../public/images/time_uncertainty.png)
+![](../assets/img/time_uncertainty.png)
 
 Unlike prospective funding models that bank on potential and predictions, retrospective funding relies on concrete evidence of success. This evidence can manifest in various forms, such as widespread usage, active community contributions, or notable advancements in the respective field.
 
@@ -62,6 +62,7 @@ This does not mean that projects shouldn't receive any prospective funding, just
 Retro-funding also provides a powerful incentive for contributors to keep developing and maintaining their work. When we support creators on Substack or Patreon, we do so not because we want them to retire but because we want to motivate them to keep creating.
 
 # Permissionless Monitoring
+
 > Make it so all stakeholders can see what's happening within a project, providing a transparent view of the project's progress and finances.
 
 Programmable retro-funding aligns nicely with the open source ethos of transparency and accountability.
@@ -79,13 +80,14 @@ Combining work activity with financial activity enables permissionless monitorin
 Such transparency builds trust, reassures funders that their contributions are being used effectively, and demonstrates the project's financial sustainability to potential supporters.
 
 **Fluid Entity Constructions**
+
 > Embrace the often decentralized nature of open source, where the lines between contributor and user are blurry, and there is often no traditionally organized entity behind the project.
 
 Many leading open source projects are decentralized in nature. They tap into a global pool of contributors and users. They don't have a traditional organizational structure or entity like an LLC or nonprofit.
 
 The image below, proposed by Nadia (Eghbal) Asparouhova, contains a useful categorization of open source projects:
 
-![](../public/images/nadia2x2.png)
+![](../assets/img/nadia2x2.png)
 
 While each type of project has unique dynamics and needs when it comes to funding, "clubs" and "federations" are typically farthest out on the decentralization axis and therefore face a unique set of challenges when it comes to funding and incentivizing positive contributions.
 
