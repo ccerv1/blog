@@ -1,10 +1,8 @@
-{
-  "title": "TLDR - Reinventing Organizations (“Teal”)",
-  "date": "05/17/2022"
-}
----
+### TLDR - Reinventing Organizations (“Teal”)
+  
+*May 17, 2022*
 
-##### *This post originally appeared on [Gitcoin Governance](https://gov.gitcoin.co/t/tldr-reinventing-organizations-teal/10638).*
+> This post originally appeared on [Gitcoin Governance](https://gov.gitcoin.co/t/tldr-reinventing-organizations-teal/10638)
 
 The book [Reinventing Organizations by Frederic Laloux](https://www.reinventingorganizations.com/pay-what-feels-right.html) is a book about DAOs that isn't about DAOs.
 

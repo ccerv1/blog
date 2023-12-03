@@ -1,10 +1,8 @@
-{
-  "title": "NYC Pizza Bracket: A Quest to Find The Best Pizzeria in New York City",
-  "date": "07/19/2014"
-}
----
+### NYC Pizza Bracket: A Quest to Find The Best Pizzeria in New York City
 
-*Check out the complete results of the Pizza Bracket [here](https://nycpizzabracket.wordpress.com/).*
+*July 19, 2014*
+
+> Check out the complete results of the Pizza Bracket [here](https://nycpizzabracket.wordpress.com/).*
 
 # RULES
 

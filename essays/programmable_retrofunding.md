@@ -1,11 +1,9 @@
-{
-  "title": "A Call for More Programmable Retro-Funding for Digital Public Goods",
-  "date": "06/26/2023"
-}
----
+### A Call for More Programmable Retro-Funding for Digital Public Goods
 
-> #### *This post originally appeared [here](https://mirror.xyz/cerv1.eth/I--a872b0kXAI6uFs4wLh_Sq9qAEbiRlA0YLPIqt2TQ) .*
->
+*June 26, 2023*
+
+> This post originally appeared [here](https://mirror.xyz/cerv1.eth/I--a872b0kXAI6uFs4wLh_Sq9qAEbiRlA0YLPIqt2TQ)
+
 # Introduction
 Our lives are increasingly moving online, sparking new modes of interaction, communication, and creation. As we transition to a world where we occupy both physical and digital spaces, the concept of a "public good" must evolve accordingly.
 

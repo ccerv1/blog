@@ -1,9 +1,9 @@
-{
-  "title": "A Snapshot of Coffee Farming Conditions in Yemen",
-  "date": "08/03/2021"
-}
----
-_The following is a lightly-edited audio transcript of an interview between Ketan Patel, Regional Director for_ [_Enveritas_](http://www.enveritas.org/)_, and the project management team from the National Vision Development Fund (_[_NVDF_](https://www.facebook.com/nvdfyemen/about/)_), a Yemeni NGO and research organization. Enveritas and NVDF recently completed more than 430 interviews with coffee farmers in Yemen._
+### A Snapshot of Coffee Farming Conditions in Yemen
+
+*August 3, 2021*
+
+
+> The following is a lightly-edited audio transcript of an interview between Ketan Patel, Regional Director for_ [_Enveritas_](http://www.enveritas.org/)_, and the project management team from the National Vision Development Fund (_[_NVDF_](https://www.facebook.com/nvdfyemen/about/)_), a Yemeni NGO and research organization. Enveritas and NVDF recently completed more than 430 interviews with coffee farmers in Yemen.
 
 **Listen to the full recording** [**here**](https://drive.google.com/file/d/1_MDGJiPJC8DNSi19GVBlXNeZ06Ii5TD5/view?usp=sharing)**.** Audio mixing by Joaquin Cotler and musical interludes by MC Maniphes.
 

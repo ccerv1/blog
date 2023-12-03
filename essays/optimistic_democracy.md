@@ -1,10 +1,8 @@
-{
-  "title": "Imagining a Brighter Future for Democracy: Optimism, Innovation, and Intelligence",
-  "date": "4/9/2023"
-}
----
+### Imagining a Brighter Future for Democracy: Optimism, Innovation, and Intelligence
 
-_The following is an article written ~~entirely~~ by GPT-4 with only minimal editing, following a back-and-forth exchange about optimism, systems change, and the notion that our current democracy is the least worst form of governance ever invented._
+*April 9, 2023*
+
+> The following is an article written ~~entirely~~ by GPT-4 with only minimal editing, following a back-and-forth exchange about optimism, systems change, and the notion that our current democracy is the least worst form of governance ever invented.
 
 ## Introduction
 

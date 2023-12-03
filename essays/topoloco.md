@@ -1,12 +1,10 @@
-{
-  "title": "Topographic Colormaps",
-  "date": "09/13/2021"
-}
----
-#### Working with custom color palettes and digital elevation models to render beautiful topographic prints in Python 
-*This post is also available on [Medium](https://medium.com/@carlcervone/topographic-colormaps-a565602dd1c6).*
+### Topographic Colormaps
 
----
+*September 13, 2021*
+
+> This post is also available on [Medium](https://medium.com/@carlcervone/topographic-colormaps-a565602dd1c6).
+
+**Working with custom color palettes and digital elevation models to render beautiful topographic prints in Python**
 
 ![Nine prints from the Topoloco Project](https://miro.medium.com/max/1400/1*592-TYzvnUcjzxRvm25JXQ.png)
 

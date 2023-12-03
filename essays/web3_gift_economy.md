@@ -1,8 +1,6 @@
-{
-  "title": "Web3 Will Enable The Gift Economy and The Market Economy to Play Together in Completely New Ways",
-  "date": "11/12/2021"
-}
----
+### Web3 Will Enable The Gift Economy and The Market Economy to Play Together in Completely New Ways
+
+*November 12, 2021*
 
 
 > “In a free market the people are free, the ideas are locked up.” — Lewis Hyde

@@ -1,9 +1,7 @@
-{
-  "title": "Towards a Pluralism Passport Built from DeSoc Legos",
-  "date": "07/28/2022"
-}
----
+### Towards a Pluralism Passport Built from DeSoc Legos
 
+*July 28, 2022*
+  
 Since reading the [DeSoc paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) back in May, I've been fascinated with the concept of on-chain identity. 
 
 It started with exploring DAO voting records to identify wallets that were active in multiple DAOs and that were willing to make non-consensus votes more frequently than other token-holders.
@@ -12,7 +10,7 @@ I then went deep into POAP data, trying to isolate POAP farmers and events that 
 
 In July, I started contributing afterhours to Gitcoin's Fraud Detection & Defense workstream. I expanded my research to a broader set of on-chain identity protocols. And I applied the research to a large dataset of Gitcoin Grants Round 14 contributors to see if on-chain, "DeSoc legos" could aide the DAO with [Sybil detection](https://gov.gitcoin.co/t/characterizing-the-sybil-resistance-problem/11235) and [Gitcoin Passport](https://passport.gitcoin.co/) trust scores.
 
-[Here is a write-up](public/images/Towards_a_Pluralism_Passport_Built_from_DeSoc_Legos.pdf) of the findings so far. It's a lot of slides, though it's full of colorful dataviz, so you can flick through them pretty fast.
+[Here is a write-up](../assets/pdf/Towards_a_Pluralism_Passport_Built_from_DeSoc_Legos.pdf) of the findings so far. It's a lot of slides, though it's full of colorful dataviz, so you can flick through them pretty fast.
 
 I've also pushed a public version of the analysis to Gitcoin's FDD repo, availabe [here](https://github.com/Fraud-Detection-and-Defense/gr14-onchain-trustscore-analysis).
 
