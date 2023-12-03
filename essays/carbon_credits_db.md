@@ -2,9 +2,7 @@
 
 *December 4, 2021*
 
->  *This shows the top 10 types of voluntary carbon credit offset projects globally across multiple registries.*
-
-> *All data are from UC Berkeley's carbon credits [database](https://gspp.berkeley.edu/faculty-and-impact/centers/cepp/projects/berkeley-carbon-trading-project/offsets-database). I built an easy-to-use Google Sheet to explore their dataset, which you can access [here](https://docs.google.com/spreadsheets/d/1rxJt3dqsSF4Yk299CQY1buU909luPLn0btE_ITVKa0E/edit?usp=sharing).*
+> This shows the top 10 types of voluntary carbon credit offset projects globally across multiple registries. All data are from UC Berkeley's carbon credits [database](https://gspp.berkeley.edu/faculty-and-impact/centers/cepp/projects/berkeley-carbon-trading-project/offsets-database). I built an easy-to-use Google Sheet to explore their dataset, which you can access [here](https://docs.google.com/spreadsheets/d/1rxJt3dqsSF4Yk299CQY1buU909luPLn0btE_ITVKa0E/edit?usp=sharing).
 
 1/
 🌳 **REDD+ / Forestry & Land Use**

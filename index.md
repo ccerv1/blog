@@ -12,7 +12,7 @@
 - [Imagining a brighter future for democracy: optimism, innovation, and intelligence](essays/optimistic_democracy)
 - [Funding for impact, not intention: a new era of creativity and risk-taking for public goods](essays/funding_for_impact)
 - [Impact evaluations for 158 Gitcoin Grants - and the 30 I chose to fund](essays/gtc_alpha_impact)
-- [A greenpill manifesto](essays/greenpill)
+- [A Greenpill manifesto](essays/greenpill)
 - [Reflections from my first days working on hypercerts](essays/hypercerts_reflections)
 - [Towards a pluralism passport built from desoc legos](essays/pluralism_passport)
 - [Reflections on Funding the Commons (NYC June 2022)](essays/funding_the_commons)
