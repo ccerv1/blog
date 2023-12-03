@@ -18,7 +18,9 @@ Consider Wikipedia, a household name in the realm of digital public goods. You'v
 ![](../assets/img/wikipedia.png)
 
 If a digital public good as prolific as Wikipedia remains strapped for cash, what can we assume about all the other, less visible open source initiatives?
-***
+
+---
+
 It doesn't need to be this way. The big tech giants and internet-based businesses continuously vie for our attention, turning every click, like, and share into a monetizable event. This attention economy generates immense profits, a portion of which is paid as taxes to governments in the countries where these companies operate. These taxes are used for traditional public goods, infrastructure, education, healthcare, and more, but these businesses seldom directly fund the digital public goods that underpin their operations and profits.
 
 What if the same type of rigorous analysis used to measure attribution was applied towards measuring impact? What if your favorite delivery app used the same type of programmability that allows you to order a pizza, tip the driver, and pay taxes in one transaction to fund the open source software they depend on?
