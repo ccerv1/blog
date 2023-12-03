@@ -1,10 +1,8 @@
-{
-  "title": "Funding for Impact, Not Intention: A New Era of Creativity and Risk-Taking for Public Goods",
-  "date": "4/1/2023"
-}
----
+Funding for Impact, Not Intention: A New Era of Creativity and Risk-Taking for Public Goods
 
-_In this blog post, we will discuss exactly why the predominant model of rewarding impact is broken and how funders can use hypercerts to have more impact. This article also appeared on [Mirror](https://mirror.xyz/hypercerts.eth/kpu2vewrOVCCVNFf78Y1ui0D091XS6-ZgPoEKc0rkp0)._
+April 1, 2023
+
+> In this blog post, I discuss exactly why the predominant model of rewarding impact is broken and how funders can use hypercerts to have more impact. This article also appeared on [Mirror](https://mirror.xyz/hypercerts.eth/kpu2vewrOVCCVNFf78Y1ui0D091XS6-ZgPoEKc0rkp0).
 
 Every funder wants to achieve more impact per dollar spent.
 

@@ -1,14 +1,9 @@
+### Trip Report on China's Coffee Sector
 
-{
-  "title": "Trip Report on China's Coffee Sector",
-  "date": "08/30/2017"
-}
----
+*August 30, 2017*
 
-_This report was written in August 2017. The goal of the trip was to learn how China’s coffee sector works and gather updated estimates on its size and scale. While the pace at which China has emerged as a major washed Arabica producer is unprecedented, I predict some speed bumps ahead._
+> The goal of the trip was to learn how China’s coffee sector works and gather updated estimates on its size and scale. While the pace at which China has emerged as a major washed Arabica producer is unprecedented, I predict some speed bumps ahead.
 
-
----
 
 **China currently has the fastest-growing coffee industry in the world**. In 2007, China produced around 13,000 tons. Today, the official total is [139,000 tons](http://english.yunnan.cn/html/2016/latestnews_1009/7110.html) (2.3 million bags). Its year-over-year growth rate has exceeded 20% since 2007, which is reminiscent of Vietnam’s rapid rise during the 1990s. However, unlike Vietnam, over 99% of China’s production is Arabica. The Government of China has prioritized coffee planting in several prefectures (districts) of the country and has set a target of eventually reaching 4 million bags.
 

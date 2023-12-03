@@ -1,10 +1,8 @@
-{
-  "title": "Reflections on Funding the Commons",
-  "date": "06/26/2022"
-}
----
+Reflections on Funding the Commons
 
-Some quick thoughts after attending the [Funding the Commons](public/images/fundingthecommons2022.pdf) event in New York this past week.
+June 26, 2022
+
+> Some quick thoughts after attending the [Funding the Commons](../assets/pdf/fundingthecommons2022.pdf) event in New York this past week.
 
 ## 1. Funding models & incentives need to be reinvented
 
@@ -18,7 +16,7 @@ Although the majority of the people at the event seemed to be builders and resea
 
 Basically we need to go from funding lots of things in the top left box to putting much more funding into things in the bottom right box. 
 
-![Fourfold model of goods](public/images/fourfold-model.png)
+![Fourfold model of goods](../assets/img//fourfold-model.png)
 
 Enterprise B2B SaaS *viz.* engineering hard to learn, hard to exit software for large corporations is basically the epitome of an excludable and rivalrous good.
 
@@ -40,7 +38,7 @@ Gitcoin Grants (with quadratic funding) and retroactive public goods funding cam
 
 All this inspired a quick rework of the fourfold model to include the anti-rivalrous.
 
-![Sixfold model of goods](public/images/expanded-model.png)
+![Sixfold model of goods](../assets/img//expanded-model.png)
 
 Divya Siddharth gave an extremely compelling [talk](https://www.youtube.com/watch?v=jT3riInwd5c) challenging us to view each of these elements not as boxes but as a spectrum. She remarked that some exclusion is often necessary but we have historically erred on the side of excluding too much, reducing the potential positive returns of a network for its users.
 

@@ -1,10 +1,8 @@
-{
-  "title": "My Grant Proposal For a DIY Peace Corps Experience",
-  "date": "03/29/2004"
-}
----
+My Grant Proposal For a DIY Peace Corps Experience
 
-*My proposal for a Christopher Brodigan grant. This would become Part 1 of my DIY Peace Corps experience in rural Tanzania. The proposal was accompanied by a four-month budget for $3,210 that included roundtrip airfare, tree-planting materials, and seminar per-diems. My writing style in this piece is a little strange; it vascillates from bombastic to self-deprecating to 'please fund me'.*
+*March 29, 2004*
+
+> My proposal for a Christopher Brodigan grant. This would become Part 1 of my DIY Peace Corps experience in rural Tanzania. The proposal was accompanied by a four-month budget for $3,210 that included roundtrip airfare, tree-planting materials, and seminar per-diems. My writing style in this piece is a little strange; it vascillates from bombastic to self-deprecating to 'please fund me'.
 
 I began working in Kambi ya Simba, a small, rural village in northern Tanzania’s Rift Valley highlands, in October-November 2002 while studying abroad with the School for International Training. During this time, I conducted scientific research regarding the extent and effectiveness of soil conservation measures employed in the village and incorporated these findings with farmer surveys to assess the socioeconomic factors that might inhibit their implementation. I mailed my final report to the village, and, nothing happened. In retrospect, the report only succeeded in quantifying certain problems that farmers are already intimately familiar with. Yes, productivity of the village’s major cash crop, wheat, had declined more than five-fold over a period of less than thirty years while simultaneously the population quadrupled and crop prices remained at near stasis. Yes, only 20% of the contour ridges I observed were “highly effective” in preventing soil loss. Yet what good—if any—does stating the obvious do for the people of this village?
 

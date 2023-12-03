@@ -1,11 +1,8 @@
-{
-  "title": "How to Stop Climate Change (Without Getting Lucky)",
-  "date": "03/30/2022"
-}
----
+How to Stop Climate Change (Without Getting Lucky
 
+*March 30, 2022*
 
-*A remix of [@naval](https://twitter.com/naval)’s famous tweet storm.*
+> A remix of [@naval](https://twitter.com/naval)’s famous tweet storm.
 
 Seek decarbonization, not just removal and reduction. Decarbonization is having an economy that no longer uses carbon-based energy sources. Removal is how we right past wrongs. Reduction is how we take small incremental steps.
 

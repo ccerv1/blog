@@ -1,10 +1,8 @@
-{
-  "title": "Skeptical of Crypto? Here Are 4 Projects to Broaden Your Perspective",
-  "date": "10/07/2021"
-}
----
+### Skeptical of Crypto? Here Are 4 Projects to Broaden Your Perspective
 
-These projects all rely on crypto protocols to solve real world problems in clever ways.
+*October 7, 2021*
+
+> These projects all rely on crypto protocols to solve real world problems in clever ways.
 
 Brave
 =====

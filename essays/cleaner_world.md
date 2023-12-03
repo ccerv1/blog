@@ -1,11 +1,8 @@
-{
-  "title": "A Cleaner World, Door by Door",
-  "date": "11/13/1999"
-}
----
+A Cleaner World, Door by Door
 
-> *I wrote this article in high school. It was originally published in my local newspaper, The Providence Journal, on November 13, 1999.*
-> 
+*November 13, 1999*
+
+> I wrote this article in high school. It was originally published in my local newspaper, The Providence Journal, on November 13, 1999.
 
 **VERY FEW PEOPLE** actually slam the door in my face. In fact, I’ve canvassed for [Clean Water Action](https://www.cleanwateraction.org/) for more than a year full time in the summers and two evenings a week during the school year and it has only happened to me five times. Once I was chased from a doorstep by a man with a rifle, but other than that nothing very dangerous has ever happened to me on what we canvassers call “turf.”
 
