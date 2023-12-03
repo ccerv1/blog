@@ -1,9 +1,6 @@
-{
-  "title": "A 6-Step Primer For How Farmers Can Earn Carbon Credits",
-  "date": "11/29/2021"
-}
----
+### A 6-Step Primer For How Farmers Can Earn Carbon Credits
 
+*November 29, 2021*
 
 ### 1. Land Demarcation
 

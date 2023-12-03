@@ -1,11 +1,9 @@
-{
-  "title": "Busa Bechane and The Arrest of Abaznab",
-  "date": "11/09/2011"
-}
----
+### Busa Bechane and The Arrest of Abaznab
+  
+*November 9, 2011*
+  
 
-> *From a team email sent on November 9, 2011 about one of the most challenging coffee farmer cooperatives we assisted at TechnoServe/Ethiopia.*
-> 
+>*From a team email sent on November 9, 2011 about one of the most challenging coffee farmer cooperatives we assisted at TechnoServe Ethiopia.*
 
 Busa Bechane was first identified as a client in 2009. They completed the client selection process and prepared a business plan, only to have it held back and then canceled at the last minute because of concerns over the wet mill site’s accessibility. It was 20 km off road and would be completely inaccessible during the rainy season, making wet mill construction virtually impossible.
 
