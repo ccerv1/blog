@@ -7,6 +7,7 @@
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
+- [Levels of the game: the psychology of RetroPGF and how to build a better game](essays/levels_of_the_game.md)
 - [Cradle-to-unicorn public goods funding](essays/cradle_to_unicorn.md)
 - [Analysis on the 300+ OSS projects applying for RetroPGF 3](https://mirror.xyz/cerv1.eth/aKLPb2c9n57zNUyOkv8IirYawVba74a1gjjTAe3TPX0)
 - [The most interesting economic experiment you’ve never heard of](https://mirror.xyz/cerv1.eth/SupW7pL4YBK56YY3HOWhz_9aOeMiKUDsPG4xVZSBE6k)
