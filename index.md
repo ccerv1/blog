@@ -7,6 +7,7 @@
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
+- [Running the wrong marathon](essays/marathon.md)
 - [Long tail public goods funding](essays/longtail.md)
 - [Levels of the game: the psychology of RetroPGF and how to build a better game](essays/levels_of_the_game.md)
 - [Cradle-to-unicorn public goods funding](essays/cradle_to_unicorn.md)

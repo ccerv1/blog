@@ -1,5 +1,7 @@
 ### Running the wrong marathon
 
+*January 2, 2024*
+
 Last November a good friend of mine ran his first marathon. He'd been training for months. Whenever we met up, I'd ask him how the training was going. He'd tell me about the long runs, the sore muscles,  the dietary restrictions, the early mornings. He tracked everything in an app. Each week he saw he was making progress. 
 
 I went to see him run the marathon. It was an ideal day for running, crisp and partly cloudy. We made a banner and waited for him at the seven-mile mark, at the corner of 3rd and 3rd, a few blocks from my apartment in Brooklyn. The roadside was packed with spectators. 
