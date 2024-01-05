@@ -10,9 +10,7 @@ I've seen the NYC marathon several times and am always struck by the diversity o
 
 Watching the marathon is one of those moments that makes you proud to be a New Yorker. The whole city shuts down for a half a day and comes out to watch. Millions of dollars are raised for charity. When the race is over, the party moves from the streets to the bars and afterparties. The endorphins are infectious.
 
-All of this left me with a very strong desire to run the marathon this year, in 2024. 
-
-It wouldn't be the first time I've considered it. The problem, however, is that I want to run the marathon for all the wrong reasons.
+All of this left me with a very strong desire to run the marathon this year, in 2024. It wouldn't be the first time I've considered it. 
 
 ### Why marathons are overrated
 
@@ -48,9 +46,13 @@ But most of us are running the wrong marathon.
 
 ### Why we run the wrong marathon
 
+When we want to improve ourselves, marathons are the first thing we pull off the shelf because they are so well-packaged. They are a complete product, comprised of essentially one active ingredient: running. And we turn to this one ingredient to solve a host of general conditions.
+
 My motivation for wanting to run a marathon is primarily to be healthier. I want to burn off excess fat, improve my cardiovascular health, and live longer. I also love the idea of "earning" a weekend full of guilt-free pizza and beer.
 
-If I were to approach accomplishing these goals from first principles, there is no way I would determine that running 26.2 miles on pavement is the best way to achieve them. We run the wrong marathon because we have a sense of something we want to accomplish but no system for tracking progress and staying accountable to putting in the work.
+If I were to approach accomplishing these goals from first principles, there is no way I would determine that running 26.2 miles on pavement is the best way to achieve them.
+
+We run the wrong marathon because we have a sense of something we want to accomplish but no system for tracking progress and staying accountable to putting in the work.
 
 The power of marathons is that they come with structure and accountability out of the box. We crave this structure and accountability whenever we set out to improve ourselves. We yearn for feedback loops and motivation to keep putting in steady progress even when it seems we've plateaued or regressed. We've all set goals that we've failed to achieve. 
 
@@ -60,10 +62,12 @@ Most of the good things in life are marathons, the result of tiny gains compound
 
 Running the right marathon means picking a worthy goal and constructing a system for measuring and staying accountable to steady progress. This is easy to say but exceptionally hard to do.
 
-I don't have a good blueprint for how to do this. In retrospect, I can see that I've run my share of "marathons" in domains like learning new languages, playing musical instruments, and building technical skills. In most cases, I didn't start down any of these paths by viewing it as a marathon. 
+I don't have a good blueprint for how to do this. In retrospect, I can see that I've run my share of "marathons" in domains like learning new languages, playing musical instruments, and building technical skills. In most cases, I didn't start down any of these paths by viewing thenm as marathon endeavors. 
 
 The only common thread I've found to choosing the right marathon is to be open to new experiences and, if something feels right, put more time into it. Then, create some real accountability that forces you to improve. It's incredible how we somehow manage to find 4-6 hours per week to put into something when we view it as non-negotiable or highly enjoyable.
 
 There's value in chasing an arbitrary number. If you can reduce your goal to a simple but hard to game metric, then you can measure progress and hold yourself accountable. But make sure the number you're chasing truly correlates to a goal that is meaningful to you. If not, then you're probably running the wrong marathon.
+
+In my case, I'd like to run a marathon or two this year. I just haven't chosen the right one yet
 
 (Disclaimer: I ran a half-marathon several years ago and it was awesome.)
