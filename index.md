@@ -7,6 +7,8 @@
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
+- [Opening the RetroPGF ballot box: analysis on 21,813 anonymous votes](https://mirror.xyz/cerv1.eth/oAt9piKwPz8cUD_a8lcx2hl-DCLBm1QoGpxDgPFDsB8)
+- [What builders can learn from RetroPGF 3: separating the signal from the noise](https://mirror.xyz/cerv1.eth/CGS5QsqoX9k5_puYopug4SWODm06OAGwOPWiEil2v0U)
 - [Running the wrong marathon](essays/marathon.md)
 - [Long tail public goods funding](essays/longtail.md)
 - [Levels of the game: the psychology of RetroPGF and how to build a better game](essays/levels_of_the_game.md)
