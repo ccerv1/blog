@@ -8,6 +8,7 @@
 
 ## Essays:
 - [Building a network of Impact Data Scientists](https://docs.opensource.observer/blog/impact-data-scientists)
+- [Coffee needs protocol leaders](essays/coffee_protocols.md)
 - [A longitudinal assessment of Gitcoin Grants impact on open source developer activity](https://docs.opensource.observer/blog/gitcoin-grants-impact)
 - [Opening the RetroPGF ballot box: analysis on 21,813 anonymous votes](https://mirror.xyz/cerv1.eth/oAt9piKwPz8cUD_a8lcx2hl-DCLBm1QoGpxDgPFDsB8)
 - [What builders can learn from RetroPGF 3: separating the signal from the noise](https://mirror.xyz/cerv1.eth/CGS5QsqoX9k5_puYopug4SWODm06OAGwOPWiEil2v0U)
