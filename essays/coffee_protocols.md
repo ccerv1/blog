@@ -29,19 +29,19 @@ Protocols seem simple only because they're so deeply integrated into society. It
 
 The coffee sector is rich in protocols too. 
 
-The cupping protocol is a building block for price discovery, arbitration, and communicating taste preferences.
+The [SCA cupping protocol](https://sca.coffee/research/protocols-best-practices) is a building block for price discovery, arbitration, and communicating taste preferences.
 
-The C market is a building block for making contracts, managing risk, and financial planning.
+The [C market](https://www.ice.com/products/15/Coffee-C-Futures) is a building block for making contracts, managing risk, and financial planning.
 
-The 60 kg bag is a building block for facilitating trade and statistics.
+The [60 kg bag](https://en.wikipedia.org/wiki/Coffee_bag) is a building block for facilitating trade and statistics.
 
-Coffee also has many localized protocols. Kenya, for example, has its own protocol for fermenting, washing, and soaking coffee. It also has a protocol for grading green coffee into AA, A, TT, etc. Colombia has a protocol for calculating the yield factor between parchment and green. It also has a protocol for determining Excelso from Supremo.
+Coffee also has many localized protocols. Kenya, for example, has its own protocol for fermenting, washing, and soaking coffee. It also has a protocol for [grading](https://www.nairobicoffeeexchange.co.ke/kenyacoffeeoverview) green coffee into AA, A, TT, etc. Colombia has a protocol for calculating the [yield factor](https://federaciondecafeteros.org/wp/coffee-grower-services/learn-to-sell-your-coffee/?lang=en) between parchment and green. It also has a protocol for determining Excelso from Supremo.
 
 Local protocols are important, but they have less reach than universal protocols. 
 
 Grading coffee the Kenyan way is not inherently better than the Colombian way, just as writing left to right is not inherently better than writing right to left. These localized protocols are not in competition but they do create friction. It is easier for Kenyan traders to learn the Tanzanian grading system than the Colombian one. Similarly, it is easier for English speakers to learn to write in Spanish than in Japanese.
 
-Organizations have their own protocols, too. These are even more localized in the sense that they rarely replicate outside the organization. When I worked at TechnoServe, there were protocols for creating lesson plans, running farmer trainings, and installing wet mills. Such protocols are cemented not only in the form of checklists and manuals but also through culture. An organization with a “strong culture” is one where the bosses don’t need to micromanage every decision because people are generally doing the right thing without thinking about it.
+Organizations have their own protocols, too. These are even more localized in the sense that they rarely replicate outside the organization. When I worked at [TechnoServe](https://www.technoserve.org/our-work/projects/coffee-initiative/), there were protocols for creating lesson plans, running farmer trainings, and installing wet mills. Such protocols are cemented not only in the form of checklists and manuals but also through culture. An organization with a “strong culture” is one where the bosses don’t need to micromanage every decision because people are generally doing the right thing without thinking about it.
 
 
 ## Powerful protocols are anti-competitive
