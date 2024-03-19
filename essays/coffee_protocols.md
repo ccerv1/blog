@@ -1,6 +1,6 @@
-### Coffee needs protocol leaders
+# Coffee needs protocol leaders
 
-> “Civilization advances by extending the number of important operations which we can perform without thinking about them." - Alfred North Whitehead
+> “Civilization advances by extending the number of important operations which we can perform without thinking about them." -Alfred North Whitehead
 
 
 ## What are protocols?
