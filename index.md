@@ -7,6 +7,7 @@
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
+- [Exporting public goods funding beyond our immediate circles](https://mirror.xyz/cerv1.eth/o02WqmO5mI741RDB7zwkx7cw5l0EqsgrDFdUhUootpA)
 - [Building a network of Impact Data Scientists](https://docs.opensource.observer/blog/impact-data-scientists)
 - [Coffee needs protocol leaders](essays/coffee_protocols.md)
 - [A longitudinal assessment of Gitcoin Grants impact on open source developer activity](https://docs.opensource.observer/blog/gitcoin-grants-impact)
