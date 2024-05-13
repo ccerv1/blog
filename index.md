@@ -7,6 +7,7 @@
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
+- [The most important lesson that I learned in my 20s](essays/the-most-important-lesson-of-my20s)
 - [Exporting public goods funding beyond our immediate circles](https://mirror.xyz/cerv1.eth/o02WqmO5mI741RDB7zwkx7cw5l0EqsgrDFdUhUootpA)
 - [Building a network of Impact Data Scientists](https://docs.opensource.observer/blog/impact-data-scientists)
 - [Coffee needs protocol leaders](essays/coffee_protocols.md)
