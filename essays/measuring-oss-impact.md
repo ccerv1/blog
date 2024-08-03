@@ -2,7 +2,7 @@
 
 *April 13, 2024*
 
-> The following is a lightly-edited transcript from a talk I gave at [Funding the Commons](https://www.fundingthecommons.io/) in Berkeley, CA in April 2024.You can find the YouTube recording [here](https://youtu.be/rMIiGbxEAw8?feature=shared) as well as the complete original slides [here](https://docs.google.com/presentation/d/1gMRFlRe55W_GZmxat27vg9mP6kOWsNsCt0bwY_TUrlI/edit?usp=sharing). Note: the video is only a five minute excerpt from the talk. They basically cut out the middle section with all the data visualizations!
+> The following is a lightly-edited transcript from a talk I gave at [Funding the Commons](https://www.fundingthecommons.io/) in Berkeley, CA in April 2024. You can find the YouTube recording [here](https://youtu.be/rMIiGbxEAw8?feature=shared) as well as the complete original slides [here](https://docs.google.com/presentation/d/1gMRFlRe55W_GZmxat27vg9mP6kOWsNsCt0bwY_TUrlI/edit?usp=sharing). Note: the video is only a five minute excerpt from the talk. They basically cut out the middle section with all the data visualizations!
 
 We’re here because we care about open source. Open source is a growing and incredibly important part of the world. Open source is borderless: the ways that we contribute are increasingly based on domain interest networks and not on locality or geography.
 
@@ -10,7 +10,7 @@ We’re here because we care about open source. Open source is a growing and inc
 
 Crypto uniquely cares about funding open source, because everything that's written to a blockchain is supposed to be public and verifiable. For crypto networks, having a vibrant open source economy is not a nice-to-have or something people think about during ["20% time"](https://en.wikipedia.org/wiki/Side_project_time). It's a top priority.
 
-Some networks are trying to create a flywheel around funding open source. A share of the revenue generated from user activity on the network flows into a foundation. The foundation uses that income to provide funding to projects that bring more value back to the network. These projects don’t need to have a fee because they can rely on this form of funding to cover their operations and grow.
+Some networks, like [Optimism](https://optimism.io) for instance, are trying to create a flywheel around funding open source. Here's how this works. A share of the revenue generated from user activity on the network flows into a foundation. The foundation uses that income to provide funding to projects. Those projects then bring more value back to the network. These projects don’t need to have a fee because they can rely on this form of funding to cover their operations and grow.
 
 ![network-flywheel](../assets/img/network_flywheel.png)
 
@@ -22,7 +22,7 @@ There are also hundreds of open source teams organized independently of the netw
 
 Now let's look at the funding picture.
 
-Once again, this is not just a beautiful concept, but there’s actual real funding going towards these open source projects. The networks, naturally, want to fund the projects having the most impact. Even during a weak market, the amount of funding going into open source projects has been increasing pretty rapidly. Already in 2024, there's been more than $100M worth of funding allocated. We’re on track to exceed what was deployed in 2023.
+Once again, this is not just a beautiful concept, but there’s actual real funding flowing into these open source projects. The networks, naturally, want to fund the projects having the most impact. Even during a weak market, the amount of funding going into open source projects has been increasing pretty rapidly. Already in 2024, there's been more than $100M worth of funding allocated. We’re on track to exceed what was deployed in 2023.
 
 ![funding-sankey](../assets/img/funding_sankey.png)
 
