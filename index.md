@@ -7,6 +7,8 @@
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
+- [Opening up the ballot box again (RF4 edition)](https://docs.opensource.observer/blog/rf4-ballot-box)
+- [What’s been the impact of Retro Funding so far?](https://docs.opensource.observer/blog/impact-of-retro-funding)
 - [Measuring the impact of open source software (Funding the Commons April 2024)](essays/measuring-oss-impact)
 - [A deep dive on impact metrics for Retro Funding 4](https://mirror.xyz/cerv1.eth/0s05D8YqJwezhJpOn9PEx_jLihvTqtFxw0R4_6nFl5I)
 - [The most important lesson that I learned in my 20s](essays/the-most-important-lesson-of-my20s)
