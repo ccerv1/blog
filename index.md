@@ -7,7 +7,7 @@
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
-- [WAR for public goods: why we need more advanced metrics](https://docs.opensource.observer/blog/war-for-public-goods)
+- [W.A.R. for public goods](https://docs.opensource.observer/blog/war-for-public-goods)
 - [Opening up the ballot box again (RF4 edition)](https://docs.opensource.observer/blog/rf4-ballot-box)
 - [What’s been the impact of Retro Funding so far?](https://docs.opensource.observer/blog/impact-of-retro-funding)
 - [Measuring the impact of open source software (Funding the Commons April 2024)](essays/measuring-oss-impact)
