@@ -7,6 +7,7 @@
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
+- [Neapolitan pizza is superior to all other forms of pizza](essays/atomic-pizza)
 - [W.A.R. for public goods](https://docs.opensource.observer/blog/war-for-public-goods)
 - [Opening up the ballot box again (RF4 edition)](https://docs.opensource.observer/blog/rf4-ballot-box)
 - [What’s been the impact of Retro Funding so far?](https://docs.opensource.observer/blog/impact-of-retro-funding)
