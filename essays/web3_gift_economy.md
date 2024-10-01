@@ -1,4 +1,4 @@
-### Web3 Will Enable The Gift Economy and The Market Economy to Play Together in Completely New Ways
+### Notes on the intersection of gift and market economies
 
 *November 12, 2021*
 

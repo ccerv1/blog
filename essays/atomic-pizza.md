@@ -1,4 +1,4 @@
-### Neapolitan pizza is superior to all other forms of pizza
+### Benchmarking ChatGPT 4o and Perplexity atomic essay writing capabilities
 
 *August 22, 2024*
 
