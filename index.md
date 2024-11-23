@@ -51,6 +51,8 @@
 - [A cleaner world, door by door](essays/cleaner_world)
 
 ## Open Source Observer cross-posts:
+- [Early experiments with synthetic controls and causal inference](https://docs.opensource.observer/blog/synthetic-controls)
+- [Opening up the ballot box (RF5 edition)](https://docs.opensource.observer/blog/rf5-ballot-box)
 - [W.A.R. for public goods](https://docs.opensource.observer/blog/war-for-public-goods)
 - [Building a network of Impact Data Scientists](https://docs.opensource.observer/blog/impact-data-scientists)
 - [Opening up the ballot box again (RF4 edition)](https://docs.opensource.observer/blog/rf4-ballot-box)
