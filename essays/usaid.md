@@ -4,11 +4,11 @@
 
 I was probably 11 or 12 when I saw the National Geographic cover [Tragedy Stalks the Horn of Africa](https://nationalgeographicbackissues.com/product/national-geographic-august-1993/), which showed a skeletal woman clutching a rusted kettle and looking down at her dust-covered bare feet. I don't think I read the article (no one *reads* National Geographic anyway, right?) but the image stuck with me. I had a large collection of National Geographic magazines, which I would often leaf through to clip photos for science projects or collages, and I remember trying to keep that edition at the very back of the stack at all times because the cover was so upsetting.
 
-This was the 1990s, shortly after the first Gulf War, around the time of genocides in Bosnia and Rwanda. However, this was not the time of the big famine in Ethiopia that everyone remembers. *That* famine was a decade earlier, in the 1980s. That famine was the one that Bob Geldof put on Live Aid to raise money for humanitarian relief.
+This was the 1990s, shortly after the first Gulf War, around the time of genocides in Bosnia and Rwanda. However, this was not the time of the big famine in Ethiopia that everyone old than me remembers. *That* famine was a decade earlier, in the 1980s. That famine was the one that Bob Geldof put on [Live Aid](https://en.wikipedia.org/wiki/Live_Aid) to raise money for.
 
 *This* famine was the more run-of-the-mill variety, the kind that didn't make the headlines or cause outpourings of public sympathy. A slow burn. People in the US had become accustomed to mainstream depictions of tragedy in places like Somalia or Ethiopia: starving children, parched fields, flies buzzing around hollow faces.
 
-The role of international development, coming from agencies like USAID and their counterparts in other rich countries, was to provide longer-term, non-emergency support to countries in need. The US government would fund projects in agriculture, infrastructure, education, and more, with the goal of helping countries become more self-sufficient over time and prevent really bad things like famines from happening in the first place.
+The role of international development, coming from agencies like USAID and their counterparts in other rich countries, was to provide longer-term, non-emergency support to countries in need. Donor governments would fund projects in agriculture, infrastructure, education, and more, with the goal of helping countries become more self-sufficient over time and prevent really bad things like famines from happening in the first place.
 
 ---
 
@@ -24,9 +24,9 @@ TechnoServe never just handed out equipment and called it a day. That principle 
 
 I joined TechnoServe to work on a coffee project in Tanzania. I happened to know Swahili, had a decent head for numbers, and liked running farmer trainings. I never actually interviewed for the job—my future boss was my housemate at the time.
 
-The project I worked on was considered big for TechnoServe but tiny for USAID (just a few million dollars). My first task involved helping a group of farmers broker an export financing deal and sell coffee to Starbucks. I enjoyed the hands-on nature of the work, and after six months I moved to Kenya to replicate what we’d done in Tanzania. Again, USAID stepped in as a funding partner, giving our fledgling coffee initiative the resources it needed. There was a “small grants” program available, and we got a five-figure check to get started.
+The project I worked on was considered big for TechnoServe but tiny for USAID (just a few million dollars). My first task involved helping a group of farmers broker an export financing deal and sell coffee to Starbucks. I enjoyed the hands-on nature of the work, and after six months I moved to Kenya to replicate what we’d done in Tanzania. Again, USAID stepped in as a funding partner, giving our fledgling coffee team the resources it needed. There was a “small grants” program available, and we got a five-figure check to get started.
 
-Later that year, the Gates Foundation took notice and gave TechnoServe its largest grant ever to scale our coffee work in East Africa. I spent the next few years working on [**The Coffee Initiative**](https://www.technoserve.org/fight-poverty/projects/coffee-initiative/) in Kenya, Rwanda, and eventually Ethiopia. It’s now seen as one of the most successful coffee development programs in history, boosting incomes for a quarter of a million households and building hundreds of farmer-owned businesses that still operate profitably (and supply some of the best coffee in the world).
+Later that year, the Gates Foundation took notice and gave TechnoServe its largest grant ever to scale our coffee work in East Africa. I spent the next few years working on [The Coffee Initiative](https://www.technoserve.org/fight-poverty/projects/coffee-initiative/) in Kenya, Rwanda, and eventually Ethiopia. It’s now seen as one of the most successful coffee development programs in history, boosting incomes for a quarter of a million households and building hundreds of farmer-owned businesses that still operate profitably (and supply some of the best coffee in the world).
 
 None of that would have been possible without USAID’s early support.
 
@@ -36,7 +36,7 @@ None of that would have been possible without USAID’s early support.
 
 Another thing I learned when I joined TechnoServe was that being a USAID-funded NGO came with lots of rules and oversight.
 
-Auditors combed through our expenses, making sure not a single beer had been paid for with U.S. government funds. Flights were scrutinized for compliance with the Fly America Act, meaning we often had to pick a more inconvenient carrier if it flew under a U.S. flag.
+Auditors combed through our expenses, making sure not a single beer had been paid for with U.S. government funds. Flights were scrutinized for compliance with the [Fly America Act](https://www.gsa.gov/policy-regulations/policy/travel-management-policy-overview/fly-america-act), meaning we often had to pick a more inconvenient carrier if it flew under a U.S. flag.
 
 I was pretty junior, so I probably didn’t see the full extent of the bureaucracy, but I did see how TechnoServe had built an entire internal system just to deal with USAID’s requirements: budgets, financial reports, monitoring and evaluation, quarterly progress reports, etc. Everything had to match a specific format, and any deviation could get the whole submission rejected. For someone who just wanted to get things done, it could be maddening to spend so much time on documentation.
 
@@ -50,23 +50,25 @@ The media has been quick to blame NGOs for capturing USAID's agenda, but in my e
 
 One of the most striking parts of the USAID ecosystem was the expat lifestyle. I saw mid- to senior-level project managers come in—often from the U.S.—to oversee multi-million-dollar grants. They’d earn tax-free salaries, have their housing and transportation covered, and if they had families, schooling and annual flights home were provided too. In East Africa, that translated to an extremely comfortable existence.
 
-For a while, I found the idea of being a permanent expat tempting. It was an easy path to a good salary, a houseful of helpers, and drinks at fancy hotels on the donor's dime. Yet I was never comfortable with how insular it felt—clusters of foreign consultants behind high walls, physically in the country but not truly *of* it.
+For a while, I found the idea of being a permanent expat tempting. It was an easy path to a good salary, a houseful of helpers, and dinners at fancy hotels on the donor's dime. Yet I was never comfortable with how insular it felt—clusters of foreign consultants behind high walls, physically in the country but not truly *of* it.
 
 That tension mounted. I worried that if I followed the easy path, I’d wake up at 60 with regrets about never trying to work again in the U.S. So I made the call to leave and head back home. Ostensibly, I was going to learn the business development side of TechnoServe’s work, but in truth, I think I needed to see if I could still fit in back in America.
 
-I never did move back to East Africa for work. Sometimes I wonder what might have happened if I stayed—maybe I’d be behind the wheel of a Toyota Land Cruiser right now, living in a guarded compound, going to dinner parties at the InterContinental. But something in me just couldn’t embrace that lifestyle.
+I never did move back to East Africa for work. Sometimes I wonder what might have happened if I stayed—maybe I’d be behind the wheel of a white Toyota Land Cruiser right now, living my guarded compound and driving to a dinner party at the InterContinental Hotel. But something in me just couldn’t embrace that lifestyle.
 
 ---
 
 ## Follow the Money
 
-Looking under the hood of many projects, you’d see that a staggering portion of each grant went to overhead and salaries for contractors in Washington, D.C., or expats in-country. By the time you accounted for flights, consultant fees, and administrative overhead, half the budget might be gone before hitting any direct project costs. Even TechnoServe, with its emphasis on lean operations, had to devote a hefty share to meeting donor reporting requirements.
+Looking under the hood of many projects, you’d see that a staggering portion of each grant went to overhead and salaries for contractors in Washington, DC, or expats in-country. By the time you accounted for flights, consultant fees, and administrative overhead, half the budget might be gone before hitting any direct project costs. Even TechnoServe, with its emphasis on lean operations, had to devote a hefty share to meeting donor reporting requirements.
 
 Agriculture projects, while important, weren’t the biggest line items for USAID. Huge sums went to drug-eradication efforts in Latin America—often with dubious outcomes—and even more to post-war interventions in places like Iraq and Afghanistan, which contended with corruption, insecurity, and other hazards. 
 
 Then there was humanitarian assistance. This often felt like a brand exercise for the U.S. government. I remember walking through rural Ethiopia and seeing children fetching water with recycled metal containers of cooking oil labeled “From the American People,” as if it were a PR campaign.
 
 Because USAID is both a donor agency and a tool of U.S. foreign policy, it was frequently an instrument for adding “carrots” to the more complex “sticks” of diplomacy and security.
+
+![](../assets/img/usaid.jpg)
 
 ---
 
