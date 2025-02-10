@@ -7,6 +7,7 @@
 &nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
+- [A Eulogy for USAID](essays/usaid)
 - [You should spend more time on the bird app: a review of rotki](essays/rotki_review)
 - [Benchmarking ChatGPT 4o and Perplexity atomic essay writing capabilities](essays/atomic-pizza)
 - [The most important lesson that I learned in my 20s](essays/the-most-important-lesson-of-my20s)
