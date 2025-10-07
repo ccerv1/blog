@@ -1,9 +1,20 @@
-These links will take you to my Calendly to schedule a video call.
+<p>These links will take you to my Calendly to schedule a video call.</p>
 
-*What do you want to talk about?*
+<p><em>What do you want to talk about?</em></p>
 
-<a href="https://calendly.com/carl-kariba/30min" style="display: inline-block; background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">Open Source Observer</a>   <a href="https://calendly.com/carl-cervone/30min" style="display: inline-block; background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 12px;">Something Else</a>
+<table style="border:none;">
+<tr>
+<td>
+  <a href="https://calendly.com/carl-at-oso">
+    <img src="https://img.shields.io/badge/OSO-253494?style=for-the-badge&logoColor=white" alt="OSO">
+  </a>
+</td>
+<td>
+  <a href="https://calendly.com/carl-cervone/30min">
+    <img src="https://img.shields.io/badge/Not_OSO-555555?style=for-the-badge" alt="Not OSO">
+  </a>
+</td>
+</tr>
+</table>
 
-<br>
 <img src="call.jpg" alt="carl on computer" width="400" height="300">
-
