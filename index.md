@@ -2,9 +2,8 @@
 
 <img src="../assets/img/avatar.png" width="50" height="50" align="right"/>
 [Bio](carl/) 
-&nbsp; &nbsp; &nbsp; [Twitter](https://twitter.com/carl_cervone)
+&nbsp; &nbsp; &nbsp; [Twitter](https://x.com/carl_cervone)
 &nbsp; &nbsp; &nbsp; [Github](https://github.com/ccerv1)
-&nbsp; &nbsp; &nbsp; [Mirror](https://mirror.xyz/cerv1.eth)
 
 ## Essays:
 - [A Eulogy for USAID](essays/usaid)
@@ -51,17 +50,20 @@
 - [My grant proposal for a DIY Peace Corps experience](essays/diy_peacecorps)
 - [A cleaner world, door by door](essays/cleaner_world)
 
-## Open Source Observer cross-posts:
-- [Opening up the ballot box (RF6 edition)](https://docs.opensource.observer/blog/rf6-ballot-box)
-- [Early experiments with synthetic controls and causal inference](https://docs.opensource.observer/blog/synthetic-controls)
-- [Opening up the ballot box (RF5 edition)](https://docs.opensource.observer/blog/rf5-ballot-box)
-- [W.A.R. for public goods](https://docs.opensource.observer/blog/war-for-public-goods)
-- [Building a network of Impact Data Scientists](https://docs.opensource.observer/blog/impact-data-scientists)
-- [Opening up the ballot box again (RF4 edition)](https://docs.opensource.observer/blog/rf4-ballot-box)
-- [What’s been the impact of Retro Funding so far?](https://docs.opensource.observer/blog/impact-of-retro-funding)
+## OSO cross-posts:
+- [Analyzing the impact of Retro Funding Season 7: Developer Tooling
+](https://docs.oso.xyz/blog/s7-developer-tooling)
+- [Analyzing the impact of Retro Funding Season 7: Onchain Builders](https://docs.oso.xyz/blog/s7-onchain-builders)
+- [Opening up the ballot box (RF6 edition)](https://docs.oso.xyz/blog/rf6-ballot-box)
+- [Early experiments with synthetic controls and causal inference](https://docs.oso.xyz/blog/synthetic-controls)
+- [Opening up the ballot box (RF5 edition)](https://docs.oso.xyz/blog/rf5-ballot-box)
+- [W.A.R. for public goods](https://docs.oso.xyz/blog/war-for-public-goods)
+- [Building a network of Impact Data Scientists](https://docs.oso.xyz/blog/impact-data-scientists)
+- [Opening up the ballot box again (RF4 edition)](https://docs.oso.xyz/blog/rf4-ballot-box)
+- [What’s been the impact of Retro Funding so far?](https://docs.oso.xyz/blog/impact-of-retro-funding)
 - [A deep dive on impact metrics for Retro Funding 4](https://mirror.xyz/cerv1.eth/0s05D8YqJwezhJpOn9PEx_jLihvTqtFxw0R4_6nFl5I)
 - [Measuring the impact of open source software (Funding the Commons April 2024)](essays/measuring-oss-impact)
-- [A longitudinal assessment of Gitcoin Grants impact on open source developer activity](https://docs.opensource.observer/blog/gitcoin-grants-impact)
+- [A longitudinal assessment of Gitcoin Grants impact on open source developer activity](https://docs.oso.xyz/blog/gitcoin-grants-impact)
 - [Opening the RetroPGF ballot box: analysis on 21,813 anonymous votes](https://mirror.xyz/cerv1.eth/oAt9piKwPz8cUD_a8lcx2hl-DCLBm1QoGpxDgPFDsB8)
 - [What builders can learn from RetroPGF 3: separating the signal from the noise](https://mirror.xyz/cerv1.eth/CGS5QsqoX9k5_puYopug4SWODm06OAGwOPWiEil2v0U)
 - [Levels of the game: the psychology of RetroPGF and how to build a better game](essays/levels_of_the_game.md)
