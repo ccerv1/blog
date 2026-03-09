@@ -5,6 +5,9 @@
 &nbsp; &nbsp; &nbsp; [Twitter](https://x.com/carl_cervone)
 &nbsp; &nbsp; &nbsp; [Github](https://github.com/ccerv1)
 
+## Weeknotes:
+- [March 3–9, 2026](weeknotes/2026-03-09-weeknotes)
+
 ## Essays:
 - [A Eulogy for USAID](essays/usaid)
 - [You should spend more time on the bird app: a review of rotki](essays/rotki_review)
