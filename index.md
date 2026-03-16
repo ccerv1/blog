@@ -6,7 +6,9 @@
 &nbsp; &nbsp; &nbsp; [Github](https://github.com/ccerv1)
 
 ## Weeknotes:
-- [March 3–9, 2026](weeknotes/2026-03-09-weeknotes)
+- [March 9–15, 2026](weeknotes/2026-03-16-weeknotes)
+- [March 2–8, 2026](weeknotes/2026-03-09-weeknotes)
+- 
 
 ## Essays:
 - [A Eulogy for USAID](essays/usaid)
