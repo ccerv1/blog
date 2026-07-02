@@ -1,77 +1,62 @@
 # Carl Cervone
 
 <img src="../assets/img/avatar.png" width="50" height="50" align="right"/>
-[Bio](carl/) 
-&nbsp; &nbsp; &nbsp; [Twitter](https://x.com/carl_cervone)
-&nbsp; &nbsp; &nbsp; [Github](https://github.com/ccerv1)
+[Bio](carl/)
+&nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/carlcervone/)
+&nbsp; &nbsp; [GitHub](https://github.com/ccerv1)
+&nbsp; &nbsp; [Twitter](https://x.com/carl_cervone)
 
-## Weeknotes:
-- [March 16–22, 2026](weeknotes/2026-03-23-weeknotes)
-- [March 9–15, 2026](weeknotes/2026-03-16-weeknotes)
-- [March 2–8, 2026](weeknotes/2026-03-09-weeknotes)
+I write about coffee and international development, data and its visualization, and the occasional detour into pizza, maps, and lessons learned the hard way.
 
-## Essays:
-- [A Eulogy for USAID](essays/usaid)
-- [You should spend more time on the bird app: a review of rotki](essays/rotki_review)
-- [Benchmarking ChatGPT 4o and Perplexity atomic essay writing capabilities](essays/atomic-pizza)
-- [The most important lesson that I learned in my 20s](essays/the-most-important-lesson-of-my20s)
-- [Exporting public goods funding beyond our immediate circles](https://mirror.xyz/cerv1.eth/o02WqmO5mI741RDB7zwkx7cw5l0EqsgrDFdUhUootpA)
-- [Coffee needs protocol leaders](essays/coffee_protocols.md)
-- [Running the wrong marathon](essays/marathon.md)
-- [Long tail public goods funding](essays/longtail.md)
-- [Cradle-to-unicorn public goods funding](essays/cradle_to_unicorn.md)
-- [The most interesting economic experiment you’ve never heard of](https://mirror.xyz/cerv1.eth/SupW7pL4YBK56YY3HOWhz_9aOeMiKUDsPG4xVZSBE6k)
-- [The past, present and future of public goods funding](https://mirror.xyz/cerv1.eth/VfD17ebuKnUr3jXI2Bbw0qvH1GbsCO6NqjqQ0ecJW_c)
-- [A call for more programmable retro-funding for digital public goods](essays/programmable_retrofunding)
-- [The career of Albert Tucker: an oral history project](essays/albert_tucker)
-- [Imagining a brighter future for democracy](essays/optimistic_democracy)
-- [Funding for impact, not intention: a new era of creativity and risk-taking for public goods](essays/funding_for_impact)
-- [A Greenpill manifesto](essays/greenpill)
-- [Reflections from my first days working on hypercerts](essays/hypercerts_reflections)
-- [Does your food have eight forms of capital in it?](https://mirror.xyz/cerv1.eth/jpe5NGhHDL-1JjtY2jE0MYbc055cfP-138jDBhZ2Z9A)
-- [Towards a pluralism passport built from desoc legos](essays/pluralism_passport)
-- [Reflections on Funding the Commons (NYC June 2022)](essays/funding_the_commons)
-- [A 14 day immersion to web3](essays/14days)
-- [TLDR - Reinventing Organizations (“Teal”)](essays/teal)
-- [How to stop climate change (without getting lucky)](essays/climate_change)
-- [Here’s a free, no-code way to email POAP links to a big group](essays/nocode_poap)
-- [Top 10 types of carbon credit offset projects globally](essays/carbon_credits_db)
-- [Notes on the intersection of gift and market economies](essays/web3_gift_economy)
-- [Skeptical of crypto? here are 4 projects to broaden your perspective](essays/crypto_skeptic)
-- [Topographic colormaps](essays/topoloco)
-- [A 6 step primer for how farmers can earn carbon credits](essays/carbon_credits_6steps)
-- [Joyplotting coffee and altitude](essays/joyplotting)
-- [A snapshot of coffee farming conditions in Yemen](essays/yemen_coffee)
-- [It’s 2020: The role data can play in achieving the next decade’s sustainability targets](essays/its_2020)
+## Featured
+
+A few pieces I'm most proud of:
+
 - [On the road to Agaro](essays/agaro)
-- [Trip report on China's coffee sector](essays/china_trip_report)
-- [Relections on a trip to Yunnan and Papua New Guinea](essays/china_and_png)
-- [Applying the Harper’s Index to the NYC subway](essays/harpers_index)
-- [NYC Pizza Bracket: a quest to find the best pizzeria in New York City](essays/pizza_bracket)
-- [The Lemon Award: a case study on financial transparency & good governance in cooperatives](essays/lemon_award)
+- [Reflections on a trip to Yunnan and Papua New Guinea](essays/china_and_png)
+- [The most important lesson that I learned in my 20s](essays/the-most-important-lesson-of-my20s)
+- [Running the wrong marathon](essays/marathon)
+- [A eulogy for USAID](essays/usaid)
 - [Busa Bechane and the arrest of Abaznab](essays/busa)
-- [Mobile deposit vouchers (a pre-MPesa concept note for mobile banking)](essays/mobile_deposit_vouchers)
-- [Mailing provisions to Tanzania](essays/mailing_provisions)
-- [My grant proposal for a DIY Peace Corps experience](essays/diy_peacecorps)
-- [A cleaner world, door by door](essays/cleaner_world)
+- [Coffee needs protocol leaders](essays/coffee_protocols)
+- [A snapshot of coffee farming conditions in Yemen](essays/yemen_coffee)
+- [Joyplotting coffee and altitude](essays/joyplotting)
+- [Applying the Harper's Index to the NYC subway](essays/harpers_index)
 
-## OSO cross-posts:
-- [Analyzing the impact of Retro Funding Season 7: Developer Tooling
-](https://docs.oso.xyz/blog/s7-developer-tooling)
-- [Analyzing the impact of Retro Funding Season 7: Onchain Builders](https://docs.oso.xyz/blog/s7-onchain-builders)
-- [Opening up the ballot box (RF6 edition)](https://docs.oso.xyz/blog/rf6-ballot-box)
-- [Early experiments with synthetic controls and causal inference](https://docs.oso.xyz/blog/synthetic-controls)
-- [Opening up the ballot box (RF5 edition)](https://docs.oso.xyz/blog/rf5-ballot-box)
-- [W.A.R. for public goods](https://docs.oso.xyz/blog/war-for-public-goods)
-- [Building a network of Impact Data Scientists](https://docs.oso.xyz/blog/impact-data-scientists)
-- [Opening up the ballot box again (RF4 edition)](https://docs.oso.xyz/blog/rf4-ballot-box)
-- [What’s been the impact of Retro Funding so far?](https://docs.oso.xyz/blog/impact-of-retro-funding)
-- [A deep dive on impact metrics for Retro Funding 4](https://mirror.xyz/cerv1.eth/0s05D8YqJwezhJpOn9PEx_jLihvTqtFxw0R4_6nFl5I)
-- [Measuring the impact of open source software (Funding the Commons April 2024)](essays/measuring-oss-impact)
-- [A longitudinal assessment of Gitcoin Grants impact on open source developer activity](https://docs.oso.xyz/blog/gitcoin-grants-impact)
-- [Opening the RetroPGF ballot box: analysis on 21,813 anonymous votes](https://mirror.xyz/cerv1.eth/oAt9piKwPz8cUD_a8lcx2hl-DCLBm1QoGpxDgPFDsB8)
-- [What builders can learn from RetroPGF 3: separating the signal from the noise](https://mirror.xyz/cerv1.eth/CGS5QsqoX9k5_puYopug4SWODm06OAGwOPWiEil2v0U)
-- [Levels of the game: the psychology of RetroPGF and how to build a better game](essays/levels_of_the_game.md)
-- [Analysis on the 300+ OSS projects applying for RetroPGF 3](https://mirror.xyz/cerv1.eth/aKLPb2c9n57zNUyOkv8IirYawVba74a1gjjTAe3TPX0)
-- [Maximizing the impact of RetroPGF: a review of RPGF2 and ideas for how data can improve future iterations](https://mirror.xyz/cerv1.eth/tCjpRODfiYpnKIgPLRplW0lAopVP3no_JmI34dNsAWk)
-- [Impact evaluations for 158 Gitcoin Grants - and the 30 I chose to fund](essays/gtc_alpha_impact)
+## Coffee & international development
+
+- [Trip report on China's coffee sector](essays/china_trip_report)
+- [The Lemon Award: financial transparency & good governance in cooperatives](essays/lemon_award)
+- [Mobile deposit vouchers: a pre-M-Pesa concept note for mobile banking](essays/mobile_deposit_vouchers)
+- [It's 2020: the role data can play in the next decade's sustainability targets](essays/its_2020)
+- [Mailing provisions to Tanzania](essays/mailing_provisions)
+
+## Essays & reflections
+
+- [A cleaner world, door by door](essays/cleaner_world)
+- [My grant proposal for a DIY Peace Corps experience](essays/diy_peacecorps)
+- [The career of Albert Tucker: an oral history project](essays/albert_tucker)
+
+## Data, maps & visualization
+
+- [Topographic colormaps](essays/topoloco)
+
+## Climate & sustainability
+
+- [Top 10 types of carbon credit offset projects globally](essays/carbon_credits_db)
+- [A 6-step primer for how farmers can earn carbon credits](essays/carbon_credits_6steps)
+- [How to stop climate change (without getting lucky)](essays/climate_change)
+
+## Odds & ends
+
+- [NYC Pizza Bracket: a quest to find the best pizzeria in New York City](essays/pizza_bracket)
+- [Benchmarking ChatGPT 4o and Perplexity at atomic essay writing](essays/atomic-pizza)
+- [Imagining a brighter future for democracy](essays/optimistic_democracy)
+
+## Earlier writing: public goods funding & crypto
+
+Writing from my years working on public goods funding, retroactive funding, and impact measurement in crypto. Most of my current data work in this area lives on the [Open Source Observer blog](https://docs.oso.xyz/blog).
+
+- [Cradle-to-unicorn public goods funding](essays/cradle_to_unicorn)
+- [Levels of the game: the psychology of RetroPGF](essays/levels_of_the_game)
+- [A call for more programmable retro-funding for digital public goods](essays/programmable_retrofunding)

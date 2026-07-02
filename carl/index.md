@@ -12,4 +12,4 @@ I live in New York with my wife and two young boys. In the winter, I enjoy skiin
 
 Most of my recent writing has been about Open Source Observer and the need for better funding infrastructure for digital public goods. I also write about data visualization, coffee, travel, and random stuff like mini art projects or a bracket to find the best pizza in NYC.
 
-If you're interested in connecting, send me a message on [Twitter](https://twitter.com/carl_cervone).
+If you're interested in connecting, reach out on [LinkedIn](https://www.linkedin.com/in/carlcervone/) or send me a message on [Twitter](https://twitter.com/carl_cervone).
