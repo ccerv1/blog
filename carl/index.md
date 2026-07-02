@@ -1,4 +1,4 @@
-Hi, I'm Carl. I'm interested in using data to improve governance and public goods funding.
+Hi, I'm Carl. I work on measuring impact with data — a thread that runs from coffee farms in Ethiopia to open source software.
 
 Right now, I'm working on [Kariba Labs](https://www.karibalabs.co/). We build technology to measure impact in the open. Our first product is an analytics platform called [Open Source Observer](https://www.opensource.observer) that helps foundations and ecosystem funds allocate funding to open source projects. 
 
@@ -10,6 +10,6 @@ My path is pretty atypical. Back in college, I spent my first two years on a Com
 
 I live in New York with my wife and two young boys. In the winter, I enjoy skiing in the Catskills and the rest of the year I love having friends over for pizza on the Ooni.
 
-Most of my recent writing has been about Open Source Observer and the need for better funding infrastructure for digital public goods. I also write about data visualization, coffee, travel, and random stuff like mini art projects or a bracket to find the best pizza in NYC.
+These days I write mostly about measuring impact with data, data visualization, and coffee — plus the occasional detour into travel, mini art projects, or a bracket to find the best pizza in NYC.
 
 If you're interested in connecting, reach out on [LinkedIn](https://www.linkedin.com/in/carlcervone/) or send me a message on [Twitter](https://twitter.com/carl_cervone).
