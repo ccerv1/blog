@@ -54,7 +54,7 @@ Popularity and name recognition are seldom reliable measures of true impact.
 
 When we look for a restaurant on Google or Yelp, we usually don’t want the one with the most reviews. Instead we look for restaurants with a high proportion of detailed five-star ratings. In RetroPGF, the List feature aimed to highlight impactful projects for voters to add to their ballots. However, most Lists showed a conservative distribution of tokens, with little variance between top and median recommendations. This is the equivalent of going onto Yelp and only finding average three-star reviews.
 
-<img src="https://images.mirror-media.xyz/publication-images/XY24gDWtMvHejt9xx8gVF.png?height=452&width=771" alt="Most RetroPGF Lists were radically un-opinionated"></img>
+<img src="../assets/img/levels_of_the_game_1.png" alt="Most RetroPGF Lists were radically un-opinionated"></img>
 
 Katie Garcia made a [similar point on the forum](https://gov.optimism.io/t/retropgf-round-3-feedback-thread/6177/13) about low-quality Lists being a drag on the process.
 
@@ -66,7 +66,7 @@ While "liking" a List provided some measure of quality, it was unclear how many 
 
 Finally, most Lists were generated towards the end of the round, giving the creator very little time to develop a reputation and voters little time to determine if it was useful to their voting strategy.
 
-<img src="https://images.mirror-media.xyz/publication-images/1qX1DKPrsUx2Je53nqGXe.png?height=331&width=639" alt="Most Lists were generated towards the end of RetroPGF"></img>
+<img src="../assets/img/levels_of_the_game_2.png" alt="Most Lists were generated towards the end of RetroPGF"></img>
 
 Experts should be encouraged to play a larger role in reviewing projects and crafting Lists within their areas of expertise. This includes both helping categorize projects effectively at the start of the round and offering ratings across the full quality spectrum.
 
@@ -82,7 +82,7 @@ While expert-driven systems can be criticized as technocratic, Optimism can addr
 
 The site [growthepie](https://growthepie.xyz) played a vital role during the voting period by providing easily accessible and filterable data about projects, such as their presence on ballots/Lists and funding history. This addition, as well as other sites like RetroList, RetroPGFHub, and hopefully our own, Open Source Observer, gave voters more data points to assist with voting.
 
-<img src="https://images.mirror-media.xyz/publication-images/h1WN8SIkUpC8KpEOwGq_d.png?height=726&width=1376" alt="growthepie.xyz"></img>
+<img src="../assets/img/levels_of_the_game_3.png" alt="growthepie.xyz"></img>
 
 Across the board, voters demonstrated a strong preference for having data in the loop when voting or coming up with their strategies.
 
@@ -126,7 +126,7 @@ If you give the same voters the same projects, but vary the rules, you’ll almo
 
 The results from RetroPGF 2 were pretty exponential. The top project received 20 times more tokens than the median project. Voters didn’t seem upset about this outcome. A comparison with RetroPGF 3’s outcomes and the community’s reaction will be insightful, and may surface if there are strong preferences for one form of distribution pattern over another.
 
-<img src="https://images.mirror-media.xyz/publication-images/6aHDTfMNoYuioXHnbaXQE.png?height=371&width=600" alt="Results from RetroPGF 2 were pretty exponential"></img>
+<img src="../assets/img/levels_of_the_game_4.png" alt="Results from RetroPGF 2 were pretty exponential"></img>
 
 Exponential distributions are generally better for tackling complex problems with low odds of success. They channel more resources into fewer, higher impact projects. Conversely, flatter distributions encourage a broader range of teams to pursue more achievable objectives. Both have their place.
 

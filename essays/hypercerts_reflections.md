@@ -113,7 +113,7 @@ Hypercerts feels like a hyperdimensional cold start problem. We need impact crea
 
 I think it’s impossible to push hard on all dimensions from day one. Product guru Lenny Ratchitsky has an incredible [series](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace) on kickstarting two-sided marketplaces. His advice: **decide which side of the marketplace to concentrate on**.
 
-![https://images.mirror-media.xyz/publication-images/5bRVUv2ZRuV13LnjlvMsA.png?height=1043&width=2000](https://images.mirror-media.xyz/publication-images/5bRVUv2ZRuV13LnjlvMsA.png?height=1043&width=2000)
+![../assets/img/hypercerts_reflections_1.png](../assets/img/hypercerts_reflections_1.png)
 
 The general pattern appears to be to focus on the more tightly constrained part of the marketplace first. With Airbnb, there were fewer people who conceivably had a nice room to rent to a stranger than there were potential guests. With TaskRabbit, they had thousands of people on their waitlist to provide services, but no one was looking for services.
 
@@ -173,11 +173,11 @@ We also started narrowing down the types of funders we want to focus on, at leas
 
 We made a simple 2x2 with potential check size on the y axis (log scale) and a very handwavy measure of adoption on the x axis.
 
-![https://images.mirror-media.xyz/publication-images/MRFgWdjDZz1Ar5fm0Azc8.png?height=1008&width=2000](https://images.mirror-media.xyz/publication-images/MRFgWdjDZz1Ar5fm0Azc8.png?height=1008&width=2000)
+![../assets/img/hypercerts_reflections_2.png](../assets/img/hypercerts_reflections_2.png)
 
 Finally, we took our users on one axis and the customer problem statements on another and attached a very non-scientific preference strength to it. [0 = not important, 2 = most important]
 
-![https://images.mirror-media.xyz/publication-images/N10DI_qdCj7Rj6dswFb9j.png?height=666&width=1900](https://images.mirror-media.xyz/publication-images/N10DI_qdCj7Rj6dswFb9j.png?height=666&width=1900)
+![../assets/img/hypercerts_reflections_3.png](../assets/img/hypercerts_reflections_3.png)
 
 This exercise suggests there may be some important differences among users, some of which may be incompatible with the version of hypercerts. For example, funders are likely to have different reactions to the prospect of “leveraging my funding to bring in other funders”. A government may be categorically opposed to the idea of having outside funders join them, whereas a DAO may view it as one of the biggest value adds.
 
