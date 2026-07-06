@@ -16,7 +16,7 @@ I started college on a computer science track but switched midway to environment
 
 I mailed the final report back to the village and ... nothing happened. This was the first of many lessons in the difference between collecting data about a problem and doing something useful about it.
 
-After graduation, I raised a few small grants and returned to Tanzania for what I fondly call my [DIY Peace Corps](../essays/diy_peacecorps) experience. I learned Swahili and the basics of agroforestry, and eventually launched a microfinance program that grew to roughly 500 customers. It was my first experience being responsible for a P&L and a team of people.
+After graduation, I raised a few small grants and returned to Tanzania for what I fondly call my [DIY Peace Corps](../essays/diy_peacecorps) experience. I learned Swahili and the basics of agroforestry, and eventually launched a microfinance program that grew to serve roughly 700 households. It was my first experience being responsible for a P&L and a team of people.
 
 It also [ended abruptly](../essays/the-most-important-lesson-of-my20s). At 24, I was fired, had my residence permit canceled, and had to leave the community where I had spent the last few years.
 
