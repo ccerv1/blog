@@ -19,10 +19,10 @@ Here are some of my (current) favorites.
 - [Running the wrong marathon](essays/marathon)
 - [Coffee needs protocol leaders](essays/coffee_protocols)
 - [The past, present and future of public goods funding](essays/pgf_past_present_future)
+- [Levels of the game: the psychology of RetroPGF](essays/levels_of_the_game)
 - [Joyplotting coffee and altitude](essays/joyplotting)
 - [Applying the Harper's Index to the NYC subway](essays/harpers_index)
 - [NYC Pizza Bracket: a quest to find the best pizzeria in New York City](essays/pizza_bracket)
-- [Levels of the game: the psychology of RetroPGF](essays/levels_of_the_game)
 
 Here is more of my online writing.
 
