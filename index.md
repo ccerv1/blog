@@ -24,7 +24,7 @@ Here are some of my (current) favorites.
 - [The most interesting economic experiment you've never heard of](essays/most_interesting_experiment)
 - [NYC Pizza Bracket: a quest to find the best pizzeria in New York City](essays/pizza_bracket)
 
-Here is more of my online writing.
+Here is more of my online writing, from oldest to newest.
 
 - [My grant proposal for a DIY Peace Corps experience](essays/diy_peacecorps)
 - [Mailing provisions to Tanzania](essays/mailing_provisions)
