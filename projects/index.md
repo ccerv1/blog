@@ -5,8 +5,8 @@ More context in my [bio](../carl/).
 ## Organizations
 
 - **[OSO](https://www.oso.xyz) / Kariba Labs** — Cofounder. Technology for measuring impact in the open.
-- **[Protocol Labs](https://protocol.ai/)** — Startup Operator. Innovation network driving breakthroughs in computing to push humanity forward.
-- **[Enveritas](https://enveritas.org)** — Cofounder. Sustainability verification for the coffee supply chain.
+- **[Protocol Labs](https://protocol.ai/)** — Startup Operator. R&D network and venture studio for the decentralized web.
+- **[Enveritas](https://enveritas.org)** — Cofounder (YC S18). Sustainability verification for the coffee supply chain.
 - **[TechnoServe](https://www.technoserve.org/)** — Director. Business solutions to poverty.
 - **[MESO Microfinance](../essays/diy_peacecorps)** — Manager. Village-based microfinance in Tanzania.
 

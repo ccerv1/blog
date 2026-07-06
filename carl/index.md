@@ -30,13 +30,13 @@ Many development programs struggle to produce durable results. The Coffee Initia
 
 At the time, I attributed TechnoServe's success mostly to its model and training methods. In retrospect, those mattered, but so did the unusually capable people willing to execute under difficult conditions. Some of my writing from the period captures the [extraordinary adversity](../essays/busa) our business advisors overcame to help their clients succeed, as well as my own reflections from long drives down [potholed roads](../essays/agaro).
 
-While I loved the work, I did not love the expat culture among long-term international development professionals in cities like Addis Ababa and Nairobi. In 2012, I moved to New York to join TechnoServe's newly formed Strategic Initiatives group. There, I worked with multinational companies and governments to design and implement economic development programs across global supply chains. The work required translating between very different worlds: farmers, banks, corporations, donors, field teams, and policymakers.
+While I loved the work, I did not love the expat culture among long-term international development professionals in cities like Addis Ababa and Nairobi. In 2012, I moved to New York to join TechnoServe's newly formed Strategic Initiatives group, picking up an MBA at Columbia along the way. There, I worked with multinational companies and governments to design and implement economic development programs across global supply chains. The work required translating between very different worlds: farmers, banks, corporations, donors, field teams, and policymakers.
 
 In 2016, I cofounded [Enveritas](https://enveritas.org), an idea hatched on a work trip to Cuba with a longtime colleague from TechnoServe.
 
 We were trying to answer a difficult question: how can companies make credible "100% sustainable" claims given the challenges of working in supply chains with limited traceability and strong incentives for everyone to look the other way?
 
-Our answer inverted the traditional auditing model. Instead of charging farmers for certification, we made verification free at the farm gate and sold the insights to the companies that needed them. We combined [large-scale field surveys](../essays/china_and_png) with satellite imagery and machine learning. As COO, I was responsible for product, data, and engineering, as well as field operations in 30+ countries.
+Our answer inverted the traditional auditing model. Instead of charging farmers for certification, we made verification free at the farm gate and sold the insights to the companies that needed them. We combined [large-scale field surveys](../essays/china_and_png) with satellite imagery and machine learning, and went through Y Combinator (S18) along the way. As COO, I was responsible for product, data, and engineering, as well as field operations in 30+ countries.
 
 Today, Enveritas provides sustainability assurance for many of the world's leading coffee and cocoa brands and conducts more than 100,000 farm surveys each year.
 
