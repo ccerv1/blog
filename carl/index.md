@@ -12,7 +12,7 @@ I'm the cofounder of Kariba Labs, where we build technology to measure impact in
 
 I've had an atypical path to where I am today, so this is my best attempt to retroactively connect the dots.
 
-I started college on a computer science track but switched midway to environmental science, with a minor in Science & Society, a field that combined philosophy of science and economics. During a semester abroad, I lived in a village in northern Tanzania's Rift Valley highlands. My senior [thesis](https://www.researchgate.net/publication/253841943_Estimating_Soil_Loss_Using_ASTER_and_Diffuse_Reflectance_Spectrometry_a_Case_Study_of_the_Village_of_Kambi_ya_Simba_in_Northern_Tanzania's_Rift_Valley_Highlands) used satellite imagery and soil spectrometry to estimate erosion there.
+I started college on a computer science track but switched midway to environmental science, with a minor in Science in Society, a field that combined philosophy of science and economics. During a semester abroad, I lived in a village in northern Tanzania's Rift Valley highlands. My senior [thesis](https://www.researchgate.net/publication/253841943_Estimating_Soil_Loss_Using_ASTER_and_Diffuse_Reflectance_Spectrometry_a_Case_Study_of_the_Village_of_Kambi_ya_Simba_in_Northern_Tanzania's_Rift_Valley_Highlands) used satellite imagery and soil spectrometry to estimate erosion there.
 
 I mailed the final report back to the village and ... nothing happened. This was the first of many lessons in the difference between collecting data about a problem and doing something useful about it.
 
