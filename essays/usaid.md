@@ -4,7 +4,7 @@
 
 I was probably 11 or 12 when I saw the National Geographic cover [Tragedy Stalks the Horn of Africa](https://nationalgeographicbackissues.com/product/national-geographic-august-1993/), which showed a skeletal woman clutching a rusted kettle and looking down at her dust-covered bare feet. I don't think I read the article (no one *reads* National Geographic anyway, right?) but the image stuck with me. I had a large collection of National Geographic magazines, which I would often leaf through to clip photos for science projects or collages, and I remember trying to keep that edition at the very back of the stack at all times because the cover was so upsetting.
 
-This was the 1990s, shortly after the first Gulf War, around the time of genocides in Bosnia and Rwanda. However, this was not the time of the big famine in Ethiopia that everyone old than me remembers. *That* famine was a decade earlier, in the 1980s. That famine was the one that Bob Geldof put on [Live Aid](https://en.wikipedia.org/wiki/Live_Aid) to raise money for.
+This was the 1990s, shortly after the first Gulf War, around the time of genocides in Bosnia and Rwanda. However, this was not the time of the big famine in Ethiopia that everyone older than me remembers. *That* famine was a decade earlier, in the 1980s. That famine was the one that Bob Geldof put on [Live Aid](https://en.wikipedia.org/wiki/Live_Aid) to raise money for.
 
 *This* famine was the more run-of-the-mill variety, the kind that didn't make the headlines or cause outpourings of public sympathy. A slow burn. People in the US had become accustomed to mainstream depictions of tragedy in places like Somalia or Ethiopia: starving children, parched fields, flies buzzing around hollow faces.
 
@@ -54,7 +54,7 @@ For a while, I found the idea of being a permanent expat tempting. It was an eas
 
 That tension mounted. I worried that if I followed the easy path, I’d wake up at 60 with regrets about never trying to work again in the U.S. So I made the call to leave and head back home. Ostensibly, I was going to learn the business development side of TechnoServe’s work, but in truth, I think I needed to see if I could still fit in back in America.
 
-I never did move back to East Africa for work. Sometimes I wonder what might have happened if I stayed—maybe I’d be behind the wheel of a white Toyota Land Cruiser right now, living my guarded compound and driving to a dinner party at the InterContinental Hotel. But something in me just couldn’t embrace that lifestyle.
+I never did move back to East Africa for work. Sometimes I wonder what might have happened if I stayed—maybe I’d be behind the wheel of a white Toyota Land Cruiser right now, living in a guarded compound and driving to a dinner party at the InterContinental Hotel. But something in me just couldn’t embrace that lifestyle.
 
 ---
 
@@ -78,7 +78,7 @@ Still, for all its red tape, some USAID-supported programs genuinely shone. The 
 
 My own work with TechnoServe was another outlier. USAID took a chance on a small, scrappy organization whose approach many other donors found too complex or difficult. The “business solutions to poverty” mantra was unorthodox at the time, but it led to real transformations for farmers and cooperatives on the ground.
 
-Many on the right have been quick to ridicule some of the projects USAID has supported in recent years, like a $47K grant to ["trans opera" in Colombia](https://colombiaone.com/2025/02/04/colombia-opera-trans-usaid/). Unless things have changed radically during the years I've been out of the scene, I have to assume that such projects are outliers as well. My bet is that the big money from USAID is still flowing to all the usual themes-infrastructure, health, agriculture, poverty reduction, etc.-and being captured by the same old contractors in DC.
+Many on the right have been quick to ridicule some of the projects USAID has supported in recent years, like a $47K grant to ["trans opera" in Colombia](https://colombiaone.com/2025/02/04/colombia-opera-trans-usaid/). Unless things have changed radically during the years I've been out of the scene, I have to assume that such projects are outliers as well. My bet is that the big money from USAID is still flowing to all the usual themes—infrastructure, health, agriculture, poverty reduction, etc.—and being captured by the same old contractors in DC.
 
 ---
 

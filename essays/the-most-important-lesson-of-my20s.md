@@ -1,8 +1,10 @@
 ### The most important lesson that I learned in my 20s
 
+*May 13, 2024*
+
 Yesterday I half-jokingly called for [a moratorium on nerd sniping](https://x.com/carl_cervone/status/1789327764245316073) in honor of Mother’s Day. As fate would have it, shortly thereafter, I was [nerd sniped](https://xkcd.com/356/) by something that could have easily consumed my weekend: a heated debate about whether to wind down or transfer ownership of an ambitious project that failed to live up to its potential.
 
-I won’t get into details about the project, but it reminded me a formative event that I went through early in my career, with a project that I was deeply invested in and had to give up on.
+I won’t get into details about the project, but it reminded me of a formative event that I went through early in my career, with a project that I was deeply invested in and had to give up on.
 
 It was my mom who helped me through that transition. Probably one of the best gifts you can give a parent as an adult is validation that they gave you some good lessons in life, even if you failed to see it that way at the time.
 
@@ -14,7 +16,7 @@ I’ll share the lesson first, then the story:
 
 ***If you find yourself in strong disagreement with an organization that ultimately you have no real control over, walk away. Channel that energy and passion into building your own thing.***
 
-Resist the temptation to escalate, dig up dirt on the leaders, launch a public campaign. Don’t instigate a civl war. Don’t attempt a coup. Don’t try to sway popular opinion by attacking the legitimacy of a key person or group of decision makers, no matter how angry they make you feel or wronged you feel by their actions.
+Resist the temptation to escalate, dig up dirt on the leaders, launch a public campaign. Don’t instigate a civil war. Don’t attempt a coup. Don’t try to sway popular opinion by attacking the legitimacy of a key person or group of decision makers, no matter how angry they make you feel or wronged you feel by their actions.
 
 It’s almost always lose-lose. 
 
@@ -32,7 +34,7 @@ My mom taught me this lesson about moving on when I was 24.
 
 I had spent most of the last three years, starting from when I was a junior in college, working on a project halfway around the world. My friends graduated and moved to New York; I moved to Tanzania.
 
-I began as a researcher, secured some funding, and eventually launched a microloan program that grew to serve around 500 customers in a small village. I did this under the auspices of a local organization, which had originally helped me with my research. There was an informal arrangement that I could operate autonomously so long as I paid my share of G&A.
+I began as a researcher, secured some funding, and eventually launched a microloan program that grew to serve around 700 customers in a small village. I did this under the auspices of a local organization, which had originally helped me with my research. There was an informal arrangement that I could operate autonomously so long as I paid my share of G&A.
 
 After about a year of grinding, the project finally got to the stage where it was operating in the black, we had a competent team in place, and there were even a few outside funders ready to give us more money.
 
@@ -43,10 +45,10 @@ All of this because, a few days earlier, I sent the founder of the organization 
 I still have a soft copy of the letter. There were three asks:
 
 - A pay raise, from $500 to $2000 per month
-- Signatory control of a foreign foundation I’d setup to receive external funding for the microloan program
+- Signatory control of a foreign foundation I’d set up to receive external funding for the microloan program
 - A seat at the “big kid’s table” where strategic planning and communications happened — and some ideas for what the agenda should be
 
-I’ll never know if it was one my specific demands that set Pepe off or just the fact that I was an arrogant 24 year old giving unsolicited advice about how to run the organization he founded. Probably the latter. We didn’t have a particularly close relationship or regular 1-1s to broach such issues.
+I’ll never know if it was one of my specific demands that set Pepe off or just the fact that I was an arrogant 24-year-old giving unsolicited advice about how to run the organization he founded. Probably the latter. We didn’t have a particularly close relationship or regular 1-1s to broach such issues.
 
 In any case, my life was in a free fall. 
 
@@ -106,7 +108,7 @@ After working there in a variety of roles, I went on to start a new organization
 
 ---
 
-I’d be lying if I said I learned my lesson back when I was 24. The truth is that I felt bitter about it for many years. Now, however, I have enough perspective to look back at the times I’ve walked way from things and feel OK about it. 
+I’d be lying if I said I learned my lesson back when I was 24. The truth is that I felt bitter about it for many years. Now, however, I have enough perspective to look back at the times I’ve walked away from things and feel OK about it. 
 
 It’s not worth fighting for an organization that isn’t yours, no matter what you think the court of popular opinion will decide.
 
