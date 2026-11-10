@@ -1,3 +1,9 @@
+---
+title: "Benchmarking ChatGPT 4o and Perplexity atomic essay writing capabilities"
+description: "An experiment comparing ChatGPT 4o and Perplexity on writing an atomic essay with the headline \"Neapolitan pizza is superior to all other forms of pizza.\""
+date: 2024-08-22
+---
+
 ### Benchmarking ChatGPT 4o and Perplexity atomic essay writing capabilities
 
 *August 22, 2024*

@@ -1,3 +1,10 @@
+---
+title: "A Call for More Programmable Retro-Funding for Digital Public Goods"
+description: "A call for more programmable, data-driven retroactive funding for digital public goods like open source software and Wikipedia."
+date: 2023-06-26
+image: /assets/img/wikipedia.png
+---
+
 ### A Call for More Programmable Retro-Funding for Digital Public Goods
 
 *June 26, 2023*

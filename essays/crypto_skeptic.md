@@ -1,3 +1,9 @@
+---
+title: "Skeptical of Crypto? Here Are 4 Projects to Broaden Your Perspective"
+description: "Four crypto projects (including Brave) that show practical, non-speculative uses of blockchain, for readers who are skeptical of crypto."
+date: 2021-10-07
+---
+
 ### Skeptical of Crypto? Here Are 4 Projects to Broaden Your Perspective
 
 *October 7, 2021*

@@ -1,3 +1,9 @@
+---
+title: "Mobile Deposit Vouchers (a Pre-M-Pesa Concept Note for Mobile Banking)"
+description: "A 2005 concept note, written before M-Pesa, proposing mobile phone vouchers to bring savings services to rural microfinance clients."
+date: 2005-08-04
+---
+
 ### Mobile Deposit Vouchers (a Pre-M-Pesa Concept Note for Mobile Banking)
 
 *August 4, 2005*

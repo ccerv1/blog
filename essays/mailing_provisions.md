@@ -1,3 +1,9 @@
+---
+title: "Mailing Provisions to Tanzania"
+description: "A 2004 email to my mom from Tanzania asking her to mail cash, batteries, and books to my PO box, a snapshot of life before mobile money and Amazon."
+date: 2004-04-08
+---
+
 ### Mailing Provisions to Tanzania
 
 *April 8, 2004*

@@ -2,7 +2,47 @@
 remote_theme: jekyll-theme-minimal
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Basics
 title: Carl Cervone
-description: Carl Cervone's personal page
+tagline: Founder, data scientist, and writer
+description: >-
+  Essays by Carl Cervone on public goods funding, impact measurement,
+  open source, coffee, and international development.
+url: https://cerv.one
+lang: en-US
+logo: /assets/img/carl-photo-cropped-lowres.jpg
+
+# SEO (jekyll-seo-tag)
+author:
+  name: Carl Cervone
+  url: https://cerv.one/carl/
+  twitter: carl_cervone
+twitter:
+  username: carl_cervone
+  card: summary_large_image
+social:
+  name: Carl Cervone
+  links:
+    - https://x.com/carl_cervone
+    - https://www.linkedin.com/in/carlcervone/
+    - https://github.com/ccerv1
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/img/carl-photo-cropped-lowres.jpg
+  - scope:
+      path: "essays"
+    values:
+      seo:
+        type: BlogPosting
+
+exclude:
+  - README.md
+  - LICENSE
+  - _drafts

@@ -1,3 +1,9 @@
+---
+title: "The Lemon Award: a Case Study on Financial Transparency & Good Governance in Cooperatives"
+description: "A case study from Ethiopia on the Lemon Award, a program to reward financial transparency and good governance in coffee cooperatives."
+date: 2012-03-26
+---
+
 ### The Lemon Award: a Case Study on Financial Transparency & Good Governance in Cooperatives
 
 *March 26, 2012*

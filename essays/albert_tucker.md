@@ -1,3 +1,9 @@
+---
+title: "The Career of Albert Tucker: An Oral History Project"
+description: "A digital transcript of mathematician Albert W. Tucker's oral history on his career at Princeton, game theory, and the people who shaped postwar mathematics."
+date: 2023-05-12
+---
+
 ### The Career of Albert Tucker: An Oral History Project
 
 *May 12, 2023*

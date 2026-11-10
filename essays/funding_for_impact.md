@@ -1,3 +1,9 @@
+---
+title: "Funding for Impact, Not Intention: A New Era of Creativity and Risk-Taking for Public Goods"
+description: "Why the dominant model of funding public goods rewards intention over impact, and how hypercerts could enable more creativity and risk-taking."
+date: 2023-04-01
+---
+
 ### Funding for Impact, Not Intention: A New Era of Creativity and Risk-Taking for Public Goods
 
 *April 1, 2023*

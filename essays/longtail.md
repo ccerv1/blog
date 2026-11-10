@@ -1,3 +1,9 @@
+---
+title: "Long tail public goods funding"
+description: "Why public goods funding in crypto follows a power law, and how to design mechanisms that better support the long tail of projects."
+date: 2023-12-20
+---
+
 ### Long tail public goods funding
 
 *December 20, 2023*

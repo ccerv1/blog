@@ -1,3 +1,10 @@
+---
+title: "TLDR - Reinventing Organizations (“Teal”)"
+description: "A summary of Frederic Laloux's Reinventing Organizations (\"Teal\"), a book about DAOs that isn't about DAOs."
+date: 2022-05-17
+image: /assets/img/teal_humandev.png
+---
+
 ### TLDR - Reinventing Organizations (“Teal”)
   
 *May 17, 2022*

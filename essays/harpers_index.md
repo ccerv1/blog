@@ -1,3 +1,9 @@
+---
+title: "Applying The Harper’s Index to The NYC Subway"
+description: "Applying the Harper's Index format to the NYC subway: a list of surprising statistics about ridership, delays, and service quality."
+date: 2016-06-05
+---
+
 ### Applying The Harper’s Index to The NYC Subway
 
 *June 5, 2016*

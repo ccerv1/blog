@@ -1,4 +1,10 @@
-### Relections on a trip to Yunnan and Papua New Guinea
+---
+title: "Reflections on a trip to Yunnan and Papua New Guinea"
+description: "Stories and photos from a trip to coffee-growing regions in Yunnan, China and the highlands of Papua New Guinea."
+date: 2017-08-18
+---
+
+### Reflections on a trip to Yunnan and Papua New Guinea
 
 *August 18, 2017*
 

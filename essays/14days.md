@@ -1,3 +1,9 @@
+---
+title: "A 14 Day Immersion to Web3"
+description: "A two-week, hands-on immersion program for web3 beginners: 14 short activities, from buying your first ETH to using wallets, DAOs, and NFTs."
+date: 2022-06-13
+---
+
 ### A 14 Day Immersion to Web3
 
 *June 13, 2022*

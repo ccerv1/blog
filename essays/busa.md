@@ -1,3 +1,9 @@
+---
+title: "Busa Bechane and The Arrest of Abaznab"
+description: "The story of Busa Bechane, one of the hardest coffee cooperatives TechnoServe Ethiopia assisted, and the arrest of its chairman, Abaznab."
+date: 2011-11-09
+---
+
 ### Busa Bechane and The Arrest of Abaznab
   
 *November 9, 2011*

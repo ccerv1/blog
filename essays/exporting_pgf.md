@@ -1,3 +1,10 @@
+---
+title: "Exporting public goods funding beyond our immediate circles"
+description: "How the crypto public goods funding community can export its tools and ideas beyond its immediate circles to fund the wider commons."
+date: 2024-05-08
+image: /assets/img/exporting_pgf_1.png
+---
+
 ### Exporting public goods funding beyond our immediate circles
 
 *May 8, 2024*

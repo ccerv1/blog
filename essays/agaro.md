@@ -1,3 +1,9 @@
+---
+title: "On The Road to Agaro"
+description: "A travelogue of the road from Jimma to Agaro in western Ethiopia, and the coffee farms, cooperatives, and people I've known along it for over a decade."
+date: 2019-05-19
+---
+
 ### On The Road to Agaro
 
 *May 19, 2019*

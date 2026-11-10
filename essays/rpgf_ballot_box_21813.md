@@ -1,3 +1,10 @@
+---
+title: "Opening the RetroPGF ballot box: analysis on 21,813 anonymous votes"
+description: "An analysis of 21,813 anonymous votes from Optimism's RetroPGF 3, revealing how badgeholders actually allocated funding."
+date: 2024-02-13
+image: /assets/img/rpgf_ballot_box_21813_1.jpeg
+---
+
 ### Opening the RetroPGF ballot box: analysis on 21,813 anonymous votes
 
 *February 13, 2024*

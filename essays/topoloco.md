@@ -1,3 +1,9 @@
+---
+title: "Topographic Colormaps"
+description: "Building topographic colormaps for data visualization, inspired by the ski trail maps of James Niehues."
+date: 2021-09-13
+---
+
 ### Topographic Colormaps
 
 *September 13, 2021*

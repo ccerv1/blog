@@ -1,3 +1,9 @@
+---
+title: "Trip Report on China's Coffee Sector"
+description: "A trip report on China's fast-growing coffee sector in Yunnan: production estimates, how the supply chain works, and the speed bumps ahead."
+date: 2017-08-30
+---
+
 ### Trip Report on China's Coffee Sector
 
 *August 30, 2017*

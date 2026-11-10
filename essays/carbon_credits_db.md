@@ -1,3 +1,10 @@
+---
+title: "Top 10 Types of Carbon Credit Offset Projects Globally"
+description: "The 10 most common types of voluntary carbon offset projects worldwide, based on UC Berkeley's carbon offsets database, from REDD+ to cookstoves."
+date: 2021-12-04
+image: /assets/img/carbon_credits/1.png
+---
+
 ### Top 10 Types of Carbon Credit Offset Projects Globally
 
 *December 4, 2021*

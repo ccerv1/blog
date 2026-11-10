@@ -1,3 +1,9 @@
+---
+title: "A Snapshot of Coffee Farming Conditions in Yemen"
+description: "An interview with Yemen's National Vision Development Foundation on conditions for coffee farmers, based on more than 430 farm surveys."
+date: 2021-08-03
+---
+
 ### A Snapshot of Coffee Farming Conditions in Yemen
 
 *August 3, 2021*

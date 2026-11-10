@@ -1,3 +1,9 @@
+---
+title: "My Grant Proposal For a DIY Peace Corps Experience"
+description: "My 2004 grant proposal to return to Kambi ya Simba, Tanzania, for a self-organized, Peace Corps-style year of agroforestry and community work."
+date: 2004-03-29
+---
+
 ### My Grant Proposal For a DIY Peace Corps Experience
 
 *March 29, 2004*

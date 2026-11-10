@@ -1,3 +1,10 @@
+---
+title: "What builders can learn from RetroPGF 3: separating the signal from the noise"
+description: "What builders can learn from Optimism's RetroPGF 3 results: separating real signal about what gets funded from the noise."
+date: 2024-01-22
+image: /assets/img/rpgf3_builders_signal_noise_1.png
+---
+
 ### What builders can learn from RetroPGF 3: separating the signal from the noise
 
 *January 22, 2024*

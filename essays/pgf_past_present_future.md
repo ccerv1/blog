@@ -1,3 +1,10 @@
+---
+title: "The Past, Present and Future of Public Goods Funding"
+description: "A talk on the past, present, and future of public goods funding, from crypto funding its own commons to funding public goods everywhere."
+date: 2023-11-17
+image: /assets/img/pgf_past_present_future.png
+---
+
 ### The Past, Present and Future of Public Goods Funding
 
 *November 17, 2023*
