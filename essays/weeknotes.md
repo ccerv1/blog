@@ -1,3 +1,8 @@
+---
+title: "Weeknotes: an experiment in measuring my own work"
+description: "For three weeks I had Claude draft weekly reports from my session history. What measuring my own work revealed about how I spend my time."
+---
+
 ### Weeknotes: an experiment in measuring my own work
 
 *March 2026*

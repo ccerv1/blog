@@ -1,3 +1,9 @@
+---
+title: "Imagining a Brighter Future for Democracy: Optimism, Innovation, and Intelligence"
+description: "Imagining a better future for democracy, drawing on David Deutsch's optimism and new tools for collective intelligence."
+date: 2023-04-09
+---
+
 ### Imagining a Brighter Future for Democracy: Optimism, Innovation, and Intelligence
 
 *April 9, 2023*

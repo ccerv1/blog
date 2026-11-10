@@ -1,3 +1,9 @@
+---
+title: "Towards a Pluralism Passport Built from DeSoc Legos"
+description: "A design sketch for a pluralism passport built from decentralized society (DeSoc) primitives like soulbound tokens and on-chain identity."
+date: 2022-07-28
+---
+
 ### Towards a Pluralism Passport Built from DeSoc Legos
 
 *July 28, 2022*

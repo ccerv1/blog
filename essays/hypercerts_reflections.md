@@ -1,3 +1,10 @@
+---
+title: "Reflections From My First Days Working On Hypercerts"
+description: "Notes from my first days working on hypercerts at Protocol Labs: open questions about the protocol, its users, and its product positioning."
+date: 2022-10-28
+image: /assets/img/hypercerts_reflections_1.png
+---
+
 ### Reflections From My First Days Working On Hypercerts
 
 *October 28, 2022*

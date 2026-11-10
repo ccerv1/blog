@@ -1,3 +1,9 @@
+---
+title: "Notes on the intersection of gift and market economies"
+description: "Notes on Lewis Hyde's The Gift and what gift economies can teach web3 about art, community, and markets."
+date: 2021-11-12
+---
+
 ### Notes on the intersection of gift and market economies
 
 *November 12, 2021*

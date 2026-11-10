@@ -1,3 +1,9 @@
+---
+title: "Running the wrong marathon"
+description: "Why marathons are overrated, and why you should make sure the number you're chasing actually maps to a goal that matters to you."
+date: 2024-01-02
+---
+
 ### Running the wrong marathon
 
 *January 2, 2024*

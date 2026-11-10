@@ -1,3 +1,9 @@
+---
+title: "Impact evaluations for 158 Gitcoin Grants - and the 30 I chose to fund"
+description: "Modular impact evaluations of 158 projects in the Gitcoin Grants Alpha round, and how I decided which 30 to fund."
+date: 2023-01-21
+---
+
 ### Impact evaluations for 158 Gitcoin Grants - and the 30 I chose to fund
 
 *January 21, 2023*

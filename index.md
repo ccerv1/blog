@@ -1,6 +1,12 @@
+---
+title: Carl Cervone
+seo:
+  type: Person
+---
+
 # Carl Cervone
 
-<img src="../assets/img/avatar.png" width="50" height="50" align="right"/>
+<img src="assets/img/avatar.png" alt="Carl Cervone" width="50" height="50" align="right"/>
 [Bio](carl/)
 &nbsp; &nbsp; [Work](projects/)
 &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/carlcervone/)

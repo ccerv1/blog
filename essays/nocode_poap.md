@@ -1,3 +1,9 @@
+---
+title: "Here’s a Free, No-Code Way to Email POAP Links to a Big Group"
+description: "A free, no-code way to email POAP claim links to a large group using a Google Form and a Zapier workflow."
+date: 2022-04-20
+---
+
 ### Here’s a Free, No-Code Way to Email POAP Links to a Big Group
 
 *April 20, 2022*

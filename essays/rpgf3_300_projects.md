@@ -1,3 +1,10 @@
+---
+title: "Analysis on the 300+ OSS projects applying for RetroPGF 3"
+description: "An analysis of the 300+ open source projects that applied for Optimism's RetroPGF 3, using data from Open Source Observer."
+date: 2023-11-21
+image: /assets/img/rpgf3_300_projects_1.png
+---
+
 ### Analysis on the 300+ OSS projects applying for RetroPGF 3
 
 *November 21, 2023*

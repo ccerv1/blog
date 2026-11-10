@@ -1,3 +1,10 @@
+---
+title: "Reflections on Funding the Commons"
+description: "Takeaways from Funding the Commons 2022 in New York: reinventing funding models and incentives for public goods."
+date: 2022-06-26
+image: /assets/img/fourfold-model.png
+---
+
 ### Reflections on Funding the Commons
 
 *June 26, 2022*

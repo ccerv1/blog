@@ -1,3 +1,10 @@
+---
+title: "Does your food have eight forms of capital in it?"
+description: "Applying the eight forms of capital framework (financial, social, natural, cultural, and more) to the food we eat and how it's produced."
+date: 2022-09-01
+image: /assets/img/eight_forms_of_capital_1.png
+---
+
 ### Does your food have eight forms of capital in it?
 
 *September 1, 2022*

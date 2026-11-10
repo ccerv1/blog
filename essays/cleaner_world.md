@@ -1,3 +1,9 @@
+---
+title: "A Cleaner World, Door by Door"
+description: "A 1999 essay about knocking on doors for Clean Water Action, and what canvassing teaches you about people and persuasion."
+date: 1999-11-13
+---
+
 ### A Cleaner World, Door by Door
 
 *November 13, 1999*

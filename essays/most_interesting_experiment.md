@@ -1,3 +1,10 @@
+---
+title: "The most interesting economic experiment you’ve never heard of"
+description: "A small nation is funding public goods retroactively, rewarding work after it has impact. Here's why this unusual economic experiment matters."
+date: 2024-01-23
+image: /assets/img/most_interesting_experiment_1.jpg
+---
+
 ### The most interesting economic experiment you’ve never heard of
 
 *January 23, 2024*

@@ -1,3 +1,10 @@
+---
+title: "Maximizing the impact of RetroPGF: a review of RPGF2 and ideas for how data can improve future iterations"
+description: "A data-driven review of Optimism's second round of Retroactive Public Goods Funding, with ideas for improving future rounds."
+date: 2023-07-12
+image: /assets/img/maximizing_rpgf2_1.png
+---
+
 ### Maximizing the impact of RetroPGF: a review of RPGF2 and ideas for how data can improve future iterations
 
 *July 12, 2023*

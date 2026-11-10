@@ -1,3 +1,9 @@
+---
+title: "A Greenpill Manifesto"
+description: "A short manifesto written after the FTX collapse about money, values, and growing the greenpill community of regenerative crypto builders."
+date: 2022-11-17
+---
+
 ### A Greenpill Manifesto
 
 *November 17, 2022*

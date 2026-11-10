@@ -1,3 +1,10 @@
+---
+title: "The most important lesson that I learned in my 20s"
+description: "The best lesson I learned in my 20s, thanks to my mom: when you strongly disagree with an organization you don't control, walk away and build your own thing."
+date: 2024-05-13
+image: /assets/img/mean-letter.png
+---
+
 ### The most important lesson that I learned in my 20s
 
 *May 13, 2024*

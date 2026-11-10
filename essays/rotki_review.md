@@ -1,3 +1,9 @@
+---
+title: "You should spend more time on the bird app: a review of rotki"
+description: "A review of rotki, the open source, privacy-preserving crypto portfolio tracker and accounting app, written in the style of a 90s PC game review."
+date: 2024-10-01
+---
+
 ### You should spend more time on the bird app: a review of rotki
 
 > This is a review for [rotki](https://rotki.com/), an open source portfolio tracker, accounting and analytics tool that protects your privacy. rotki is an abbreviation for *Rotkehlchen*, the German word for the bird known in English as the European Robin. 

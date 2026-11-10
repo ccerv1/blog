@@ -1,3 +1,8 @@
+---
+title: "Coffee needs protocol leaders"
+description: "Why the coffee industry needs protocol leaders: shared rules for sustainability data, traceability, and trade that everyone can build on."
+---
+
 # Coffee needs protocol leaders
 
 > “Civilization advances by extending the number of important operations which we can perform without thinking about them." 

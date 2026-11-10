@@ -1,3 +1,9 @@
+---
+title: "A 6-Step Primer For How Farmers Can Earn Carbon Credits"
+description: "A six-step primer on how farmers earn carbon credits, from land demarcation and regenerative practices to measurement, verification, and sale."
+date: 2021-11-29
+---
+
 ### A 6-Step Primer For How Farmers Can Earn Carbon Credits
 
 *November 29, 2021*

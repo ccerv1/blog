@@ -1,3 +1,8 @@
+---
+title: Work
+description: "Organizations and open source projects Carl Cervone has built or worked on, including OSO, Enveritas, Protocol Labs, TechnoServe, and Optimism Retro Funding."
+---
+
 # Work
 
 More context in my [bio](../carl/).

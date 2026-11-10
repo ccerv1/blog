@@ -1,3 +1,9 @@
+---
+title: "Cradle-to-unicorn public goods funding"
+description: "A framework for funding public goods across a project's whole life cycle, from early grants through growth, using a mix of funding mechanisms."
+date: 2023-11-28
+---
+
 ### Cradle-to-unicorn public goods funding
 
 *November 28, 2023*

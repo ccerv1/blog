@@ -1,3 +1,9 @@
+---
+title: "How to Stop Climate Change (Without Getting Lucky)"
+description: "A remix of Naval's \"How to Get Rich\" tweetstorm for climate: decarbonization, clean energy, compounding, and playing long-term games."
+date: 2022-03-30
+---
+
 ### How to Stop Climate Change (Without Getting Lucky)
 
 *March 30, 2022*

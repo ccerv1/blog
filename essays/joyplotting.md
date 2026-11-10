@@ -1,3 +1,10 @@
+---
+title: "Joyplotting Coffee and Altitude"
+description: "A joyplot of the altitude of 121,156 coffee farms across 21 countries, and what it reveals about coffee origins."
+date: 2021-08-05
+image: /assets/img/joyplot.png
+---
+
 ### Joyplotting Coffee and Altitude
 
 *August 5, 2021*

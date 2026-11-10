@@ -1,3 +1,9 @@
+---
+title: "NYC Pizza Bracket: A Quest to Find The Best Pizzeria in New York City"
+description: "An NCAA-style knockout bracket, inspired by Nate Silver's Burrito Bracket, to find the best pizzeria in New York City."
+date: 2014-07-19
+---
+
 ### NYC Pizza Bracket: A Quest to Find The Best Pizzeria in New York City
 
 *July 19, 2014*

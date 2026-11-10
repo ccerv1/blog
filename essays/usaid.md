@@ -1,3 +1,10 @@
+---
+title: "A Eulogy for USAID"
+description: "A eulogy for USAID: a personal reflection on what American aid made possible, from coffee programs in East Africa to its flaws and future."
+date: 2025-02-09
+image: /assets/img/usaid.jpg
+---
+
 # A Eulogy for USAID
 
 *February 9, 2025*

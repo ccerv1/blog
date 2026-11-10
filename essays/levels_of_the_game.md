@@ -1,3 +1,10 @@
+---
+title: "Levels of the game: the psychology of RetroPGF and how to build a better game"
+description: "The psychology of Optimism's RetroPGF as a repeated game, and ideas for designing a better game for builders, voters, and funders."
+date: 2023-12-14
+image: /assets/img/levels_of_the_game_1.png
+---
+
 ### Levels of the game: the psychology of RetroPGF and how to build a better game
 
 *December 14, 2023*

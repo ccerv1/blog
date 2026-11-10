@@ -1,3 +1,10 @@
+---
+title: "A deep dive on impact metrics for Retro Funding 4"
+description: "A deep dive into the impact metrics used in Optimism's Retro Funding 4, how they work, and how badgeholders can use them to vote."
+date: 2024-06-28
+image: /assets/img/rf4_impact_metrics_deep_dive_1.png
+---
+
 ### A deep dive on impact metrics for Retro Funding 4
 
 *June 28, 2024*

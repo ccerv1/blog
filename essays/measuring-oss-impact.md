@@ -1,3 +1,10 @@
+---
+title: "Measuring the impact of open source software"
+description: "My Funding the Commons talk on measuring the impact of open source software with data, and why it matters for funders."
+date: 2024-04-13
+image: /assets/img/oss_impact.gif
+---
+
 ### Measuring the impact of open source software
 
 *April 13, 2024*

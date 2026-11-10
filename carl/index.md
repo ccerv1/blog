@@ -1,3 +1,8 @@
+---
+title: Bio
+description: "Carl Cervone is a founder and data scientist who helps organizations make smarter funding decisions for the public good. Cofounder of Kariba Labs (OSO) and Enveritas."
+---
+
 Hi, I'm Carl. Here's my bio in one sentence, one paragraph, and one thousand words.
 
 ## One sentence
