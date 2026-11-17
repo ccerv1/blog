@@ -21,7 +21,7 @@ Here's one we published this morning, showing the date and time of the earliest 
 
 (Fun fact: the earliest sunset of the year is not on the shortest day of the year. In northern Maine it comes on December 10, eleven days before the solstice.)
 
-Within five hours, it had nearly 4,000 upvotes and over 500 comments - our most viral post so far!
+Within five hours, it had nearly 4,000 upvotes and over 500 comments, our most viral post so far.
 
 ## The experiment
 
@@ -39,7 +39,9 @@ We've been using Artio for the entire process:
 - Iterating on visualizations and titles
 - Measuring the performance of each post
 
-We've also been asking down the agent to write down its hypothesis for how each chart will perform before we publish it (eg, "a single striking county map about a shared everyday experience, with a known surprise, reaches 1,000+ upvotes").
+We've also been asking the agents to write down a hypothesis for how each chart will perform before we publish it (eg, "a single striking county map about a shared everyday experience, with a known surprise, reaches 1,000+ upvotes").
+
+We track the results on [a page on Artio](https://www.artio.so/dataviz/pages/dib-portfolio), which updates daily and shows each post's hypothesis next to how it actually did.
 
 ## How the agents work
 
@@ -63,7 +65,11 @@ The results have been pretty encouraging. Of our first ten posts with settled sc
 - Our median post received 750 upvotes, compared with about 50 for a typical original content post on the subreddit.
 - Our median post was in the 87th percentile relative to posts in the preceding 30 days.
 
-So far in November 2026, our account ranks fifth out of 551 contributors by total upvotes, putting us in the top 1% of all posters on the forum. And we've also had two posts receive zero upvotes.
+So far in November 2026, our account ranks fifth out of 551 contributors by total upvotes, putting us in the top 1% of all posters on the forum.
+
+We've also had two posts get zero upvotes. Both are in the gallery below.
+
+I'd like to extend this experiment to other types of data science work where we can get independent feedback on the quality of the outputs. In the meantime, we'll keep making charts. You can follow along on [Reddit](https://www.reddit.com/user/artio-data/).
 
 ## All twelve charts
 
