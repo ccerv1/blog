@@ -15,13 +15,11 @@ One of the fun things about building [Artio](https://www.artio.so) is that I get
 
 Over the past month, we've been running a little experiment with [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/). We wanted to see how good we could get at using agents to research interesting topics, ingest public datasets, and produce data visualizations that people would actually enjoy.
 
-Here's one we published this morning, showing the date and time of the earliest sunset of the year in every county in the contiguous US.
+Here's one we published this morning, showing the date and time of the earliest sunset of the year in every county in the contiguous US. Within five hours, it had nearly 4,000 upvotes and over 500 comments, our most viral post so far.
 
 ![This year's earliest sunset will be in Maine at 3:46 pm on Dec 10](../assets/img/dataisbeautiful/earliest-sunset.png)
 
 (Fun fact: the earliest sunset of the year is not on the shortest day of the year. In northern Maine it comes on December 10, eleven days before the solstice.)
-
-Within five hours, it had nearly 4,000 upvotes and over 500 comments, our most viral post so far.
 
 ## The experiment
 
@@ -41,7 +39,7 @@ We've been using Artio for the entire process:
 
 We've also been asking the agents to write down a hypothesis for how each chart will perform before we publish it (eg, "a single striking county map about a shared everyday experience, with a known surprise, reaches 1,000+ upvotes").
 
-We track the results on [a page on Artio](https://www.artio.so/dataviz/pages/dib-portfolio), which updates daily and shows each post's hypothesis next to how it actually did.
+We track the results in our own private dashboard, which updates daily and shows each post's hypothesis next to how it actually did.
 
 ## How the agents work
 
