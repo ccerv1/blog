@@ -65,5 +65,5 @@ Here is more of my online writing, from oldest to newest.
 - [Building a network of Impact Data Scientists](https://docs.oso.xyz/blog/impact-data-scientists)
 - [You should spend more time on the bird app: a review of rotki](essays/rotki_review)
 - [Early experiments with synthetic controls and causal inference](https://docs.oso.xyz/blog/synthetic-controls)
-- [Twelve charts on r/dataisbeautiful](essays/dataisbeautiful)
+- [An experiment with r/dataisbeautiful](essays/dataisbeautiful)
 - [Weeknotes: an experiment in measuring my own work](essays/weeknotes)
